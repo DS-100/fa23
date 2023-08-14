@@ -1,0 +1,9 @@
+**/.DS_Store
+**/*.ipynb_checkpoints/
+_site/*
+_staffers/sheets_parser.json
+.DS_Store
+.*.swp
+.*.swo
+DS_Store
+.bundle
