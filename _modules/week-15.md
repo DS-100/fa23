@@ -11,4 +11,3 @@ Nov 30
 
 Dec 1
 : **Lab 15**{: .label .label-lab } Clustering
-: **Lab 16**{: .label .label-lab } Decision Trees (optional) 
