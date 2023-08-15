@@ -30,10 +30,14 @@ permalink: pretty
 # External navigation links
 nav_external_links:
   - title: Course FAQ
-    url: https://ds100.org/su23faq
+    url: https://ds100.org/fa23faq
     hide_icon: true
   - title: Course Notes
+<<<<<<< Updated upstream
     url: https://ds100.org/course-notes/
+=======
+    url: https://ds100.org/course-notes-fa23/
+>>>>>>> Stashed changes
     hide_icon: true
 
 footer: >-
