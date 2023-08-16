@@ -7,7 +7,7 @@ Nov 21
 : **Discussion 12**{: .label .label-disc } Logistic Regression II
 
 Nov 23
-: **Lecture**{: .label .label-lecture} No Lecture
+: **Lecture**{: .label .label-lecture} No Lecture (Thanksgiving)
 
 Nov 24
 : **Lab 14**{: .label .label-lab } PCA (due Nov 28)

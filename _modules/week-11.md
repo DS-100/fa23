@@ -11,4 +11,4 @@ Nov 2
 
 Nov 3
 : **Lab 11**{: .label .label-lab } SQL (due Nov 7)
-: **Homework 8**{: .label .label-hw } SQL (due Nov 9)
+: **Homework 9**{: .label .label-hw } SQL (due Nov 9)

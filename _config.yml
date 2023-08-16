@@ -30,11 +30,11 @@ permalink: pretty
 # External navigation links
 nav_external_links:
   - title: Course FAQ
-    url: https://ds100.org/fa23faq
+    url: https://ds100.org/faqs/fa23/
     hide_icon: true
-  - title: Course Notes
-    url: https://ds100.org/course-notes/
-    hide_icon: true
+  # - title: Course Notes
+  #   url: https://ds100.org/course-notes/
+  #   hide_icon: true
 
 footer: >-
   Powered by <a href="https://github.com/kevinlin1/just-the-class">Just the Class</a>

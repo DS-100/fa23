@@ -11,4 +11,4 @@ Nov 16
 
 Nov 17
 : **Lab 13**{: .label .label-lab } Inference & Climate (due Nov 21)
-: **Project 2B**{: .label .label-hw } Spam and Ham (due Nov 30)
+: **Project B2**{: .label .label-hw } Spam and Ham II (due Nov 30)

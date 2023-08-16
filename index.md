@@ -31,7 +31,7 @@ UC Berkeley, Fall 2023
 </div>
 
 {: .highlight }
-> Announcements:
+> Welcome to Data 100! This website is still a work in progress until this message is taken down.
 
 [//]: <> > Welcome to [Week 1](#week-{{page.currWeekNumber}})!
 

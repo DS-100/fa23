@@ -7,11 +7,11 @@ Oct 17
 : **Discussion 8**{: .label .label-disc } Feature Engineering and Housing
 
 Oct 18
-: **Midterm**{: .label .label-exam} Midterm
+: **Midterm**{: .label .label-exam} Midterm (7:00pm - 9:00pm)
 
 Oct 19
 : **Lecture 17**{: .label .label-lecture} Random Variables
 
 Oct 20
 : **Lab 9**{: .label .label-lab } Model Selection (due Oct 24)
-: **Project 1B**{: .label .label-hw } Housing (due Oct 26)
+: **Project A2**{: .label .label-hw } Housing II (due Oct 26)

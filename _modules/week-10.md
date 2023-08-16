@@ -11,4 +11,4 @@ Oct 26
 
 Oct 27
 : **Lab 10**{: .label .label-lab } Probability (due Oct 31)
-: **Homework 7**{: .label .label-hw } Probability (due Nov 2)
+: **Homework 8**{: .label .label-hw } Probability (due Nov 2)
