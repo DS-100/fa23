@@ -16,10 +16,10 @@ UC Berkeley, Fall 2023
 {: .mb-0 .fs-6 .text-grey-dk-000 }
 
 
-[Ed](){:target="_blank" .btn .btn-ed .mr-1 }
+[comment]: <> ([Ed](){:target="_blank" .btn .btn-ed .mr-1 })
 [Datahub](http://data100.datahub.berkeley.edu/){:target="_blank" .btn .btn-datahub .mr-1 }
 [Gradescope](https://www.gradescope.com/courses/564792){:target="_blank" .btn .btn-gradescope .mr-1 }
-[Extenuating Circumstances](){:target="_blank .btn .btn-blue .mr-1}
+[Extenuating Circumstances](https://forms.gle/pm7VYsDeCpaBMc9r6){:target="_blank .btn .btn-blue .mr-1}
 
 <div>
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
