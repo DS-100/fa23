@@ -25,14 +25,42 @@ Contact course staff via [Ed](https://edstem.org/us/courses/40266) with any ques
   {% endfor %}
 </div>
 
-<a name = 'tas'></a>
+<a name = 'leads'></a>
 
-## Teaching Assistants
+## Leads
 
 <div class="role">
-  {% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' %}
-  {% for staffer in teaching_assistants %}
-  {{ staffer }}
+  {% assign head_teaching_assistants = site.staffers | where: 'team', 'Head TA' %}
+  {% for staffer in head_teaching_assistants %}
+    {{ staffer }}
+  {% endfor %}
+  {% assign lead_teaching_assistants = site.staffers | where: 'role', 'Lead Teaching Assistant' %}
+  {% for staffer in lead_teaching_assistants %}
+    {% if staffer.team != 'Head TA' %}
+      {{ staffer }}
+    {% endif %}
+  {% endfor %}
+</div>
+
+<a name = 'ucs2s'></a>
+
+## UCS2s
+
+<div class="role">
+  {% assign ucs2s = site.staffers | where: 'role', 'UCS2' %}
+  {% for staffer in ucs2s %}
+    {{ staffer }}
+  {% endfor %}
+</div>
+
+<a name = 'ucs1s'></a>
+
+## UCS1s
+
+<div class="role">
+  {% assign ucs1s = site.staffers | where: 'role', 'UCS1' %}
+  {% for staffer in ucs1s %}
+    {{ staffer }}
   {% endfor %}
 </div>
 
@@ -51,7 +79,7 @@ Contact course staff via [Ed](https://edstem.org/us/courses/40266) with any ques
 -->
 
 
-<a name = 'readers'></a>
+<!-- <a name = 'readers'></a>
 
 ## Readers
 
@@ -60,4 +88,4 @@ Contact course staff via [Ed](https://edstem.org/us/courses/40266) with any ques
   {% for staffer in readers %}
   {{ staffer }}
   {% endfor %}
-</div>
+</div> -->

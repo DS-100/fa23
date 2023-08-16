@@ -17,7 +17,7 @@ scopes = [
 ]
 credentials = ServiceAccountCredentials.from_json_keyfile_name("sheets_parser.json", scopes) #access the json key you downloaded earlier
 file = gspread.authorize(credentials) # authenticate the JSON key with gspread
-sheet = file.open("Data 100 Su23 Staff Onboarding (Responses)")  #open sheet
+sheet = file.open("Data 100 Fall 2023 Staff Onboarding (Responses)")  #open sheet
 sheet = sheet.sheet1  #all desired info should be in the first sheet
 
 def attribute_parser(row):
@@ -41,12 +41,10 @@ def attribute_parser(row):
 def assign_role(job):
     if "20" in job:
         return "Lead Teaching Assistant"
-    elif "8" in job:
-        return "Teaching Assistant"
-    elif "Tutor" in job:
-        return "Tutor"
-    elif "Reader" in job:
-        return "Reader"
+    elif "UCS2" in job:
+        return "UCS2"
+    elif "UCS1" in job:
+        return "UCS1"
     elif "Instructor" in job:
         return "Instructor"
     else:
@@ -62,10 +60,9 @@ def get_photo_location(photos, attributes):
 
 def main():
     photos = os.listdir('../resources/assets/staff_pics')
-    for i in range(2, 18): #modify the second number depending on the number of rows in the sheet.
+    for i in range(2, 34): #modify the second number depending on the number of rows in the sheet.
         row = sheet.row_values(i)
         attributes = attribute_parser(row)
-        # print(attributes)
         filename = attributes['name'].lower().replace(' ', '_') + '.md'
         file = open(filename, 'w')
         if attributes['role'] == "Instructor":
@@ -74,7 +71,7 @@ def main():
                 + 'role: ' + attributes['role'] + '\n'
                 + 'email: ' + attributes['email'] + '\n'
                 + 'website: ' + attributes['website'] + '\n'
-                + 'photo: http://ds100.org/su23/resources/assets/staff_pics/' + get_photo_location(photos, attributes) + '\n'
+                + 'photo: http://ds100.org/fa23-testing/resources/assets/staff_pics/' + get_photo_location(photos, attributes) + '\n'
                 + 'pronouns: ' + attributes['pronouns'] + '\n'
                 # + 'oh: ' + attributes['oh'] + '\n'
                 + '---\n'
@@ -85,7 +82,7 @@ def main():
                 + 'role: ' + attributes['role'] + '\n'
                 + 'email: ' + attributes['email'] + '\n'
                 + 'website: ' + attributes['website'] + '\n'
-                + 'photo: http://ds100.org/su23/resources/assets/staff_pics/' + get_photo_location(photos, attributes) + '\n'
+                + 'photo: http://ds100.org/fa23-testing/resources/assets/staff_pics/' + get_photo_location(photos, attributes) + '\n'
                 + 'pronouns: ' + attributes['pronouns'] + '\n'
                 + '---\n'
                 + attributes['bio'] + '\n')

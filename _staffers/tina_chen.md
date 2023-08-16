@@ -1,10 +1,9 @@
 ---
 name: Tina Chen
-role: Teaching Assistant
+role: Lead Teaching Assistant
 email: czz129@berkeley.edu
 website: 
-photo: http://ds100.org/su23/resources/assets/staff_pics/Tina_Chen.png
+photo: http://ds100.org/fa23-testing/resources/assets/staff_pics/Tina_Chen.jpg
 pronouns: She/Her/Hers
-oh: Thu, Fri 1-3
 ---
 Hi Everyone! I'am Tina a rising senior majoring DS + stats. I'm super exicting to meet with everyone. Feel free to reach out to me for any questions! :)))

@@ -1,10 +1,9 @@
 ---
 name: Celine Choi
-role: Teaching Assistant
+role: UCS2
 email: celinejwchoi@berkeley.edu
 website: 
-photo: http://ds100.org/su23/resources/assets/staff_pics/Celine_Choi.jpg
+photo: http://ds100.org/fa23-testing/resources/assets/staff_pics/Celine_Choi.jpg
 pronouns: She/Her/Hers
-oh: Mon, Wed 1-3
 ---
-Hey everyone! I am a rising junior studying CS. This is my second year on course staff and I'm super stoked to meet you all :)
+Hey everyone, I am a junior majoring in CS from Seoul, South Korea. This is my third semester on course staff and I'm super excited to meet you all! 
