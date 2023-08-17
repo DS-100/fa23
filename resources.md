@@ -76,6 +76,7 @@ This section is currently under construction -- we will be adding more resources
 
 #### Regex
 + [Regex101.com](https://regex101.com). Remember to select the Python flavour of Regex!
++ [Data 100 Regex Reference Sheet](https://drive.google.com/file/d/1-OkbAv-iLCljI_6b-NcmmmosePbP3jEZ/view?usp=sharing)
 + The official [Python3 regex guide](https://docs.python.org/3/howto/regex.html) is good!
 
 #### LaTeX
@@ -237,3 +238,9 @@ The [UC Berkeley Food Pantry](https://pantry.berkeley.edu/) (#68 Martin Luther K
 ## Data Science Education
 
 Interested in bringing the Data Science major or curriculum to your academic institution?  Please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSfw6iN-V58Urvg7RRfbjNQceisLULBizg0qku1_2qV8cvOtvA/viewform) if you would like support from Berkeley in offering some variant of our Data Science courses at your institution (or just to let us know that you're interested). Information about the courses appear at [data8.org](http://data8.org) and [ds100.org](http://ds100.org). Please note that this form is only for instructors. If you are only interested in learning Python or data science, please look at our Data 8 or Data 100 websites mentioned above.
+
+## Local Setup (Old)
+
+**NOTE:** This section is out of date and no longer supported by the course staff.
+
+Click [here]({{ site.baseurl }}/setup) to read our guide on how to set up our development environment locally (as an alternative to using DataHub). Please note that any autograder tests will only work on DataHub.
