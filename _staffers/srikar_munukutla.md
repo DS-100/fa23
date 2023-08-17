@@ -1,6 +1,6 @@
 ---
 name: Srikar Munukutla
-role: UCS2
+role: UCS2 12
 email: smunukutla@berkeley.edu
 website: https://www.linkedin.com/in/srikarmunukutla/
 photo: http://ds100.org/fa23-testing/resources/assets/staff_pics/Srikar_Munukutla.jpg

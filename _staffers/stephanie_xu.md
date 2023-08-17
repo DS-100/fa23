@@ -1,6 +1,6 @@
 ---
 name: Stephanie Xu
-role: UCS2
+role: UCS2 12
 email: stephanie.xu@berkeley.edu
 website: 
 photo: http://ds100.org/fa23-testing/resources/assets/staff_pics/Stephanie_Xu.jpg
