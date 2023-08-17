@@ -9,14 +9,14 @@ description: Past exams and other relevant material to aid you in the course.
 # Resources
 {:.no_toc}
 
-Here is a collection of resources that will help you learn more about various concepts and skills covered in the class. Learning by reading is a key part of being a well rounded data scientist. We will not assign mandatory reading but instead encourage you to look at these _and other_ materials. If you find something helpful, post it on EdStem, and consider contributing it to the course website.
+Here is a collection of resources that will help you learn more about various concepts and skills covered in the class. Learning by reading is a key part of being a well-rounded data scientist. We will not assign mandatory reading but instead encourage you to look at these _and other_ materials. If you find something helpful, post it on EdStem, and consider contributing it to the course website.
 
 Jump to:
 * TOC
 {:toc}
 
 ## Supplementary Course Notes
-Alongside each lecture are supplementary [Course Notes](https://ds100.org/course-notes-su23/). 
+Alongside each lecture are supplementary [Course Notes](https://ds100.org/course-notes/). 
 
 Lecture notes will be updated on a weekly basis, prior to the lecture. If you spot any errors or would like to suggest any changes, please email us at data100.instructors@berkeley.edu.
 
@@ -51,19 +51,20 @@ Alongside each lecture are optional textbook readings to the Data 100 textbook, 
 <a name = 'course_website'></a>
 ## Course Website
 
-We will be posting all lecture materials on the course syllabus. In addition, they will also be listed in the following publicly visible [Github Repo](https://github.com/DS-100/su23-materials).
+We will be posting all lecture materials on the course syllabus. In addition, they will also be listed in the following publicly visible [Github Repo](https://github.com/DS-100/fa23-student).
 
 You can send us changes to the course website by
 [forking](https://help.github.com/articles/fork-a-repo/) and sending a [pull
-request](https://help.github.com/articles/about-pull-requests/) to the [course
-website github repository](https://github.com/DS-100/su23). You will then
+request](https://help.github.com/articles/about-pull-requests/) to the course
+website github repository. We will update this section with the course website github repository link when available. You will then
 become part of the history of Data 100 at Berkeley.
 
 ## Coding and Mathematics Resources
 
+This section is currently under construction -- we will be adding more resources down below!
+
 #### Pandas
 
-  - [DS100 Textbook Pandas Reference Table](https://www.textbook.ds100.org/ch/a04/ref_pandas.html)
   - [Pandas API Reference](https://pandas.pydata.org/pandas-docs/stable/reference/index.html)
   - [The Pandas Cookbook](http://nbviewer.jupyter.org/github/jvns/pandas-cookbook/tree/master/cookbook/): This provides a nice overview of some of the basic Pandas functions. However, it is slightly out of date.
   - [Learn Pandas](https://bitbucket.org/hrojas/learn-pandas) A set of lessons providing an overview of the Pandas library.
@@ -71,14 +72,11 @@ become part of the history of Data 100 at Berkeley.
 
 #### SQL
 + We've assembled some [SQL Review Slides](https://docs.google.com/presentation/d/1mLVkQxah9asdKhnTNpcUSYBOuKGSWE_d3MJ5nYuTw9U/edit?usp=sharing) to help you brush up on SQL.
-+ We've also compiled a list of SQL practice problems, which can be found [here](assets/other/sqlReview.pdf), along with their [solutions](assets/other/sqlReviewSol.pdf).
 + This [SQL Cheat Sheet](https://websitesetup.org/sql-cheat-sheet/) is an awesome resource that was created by Luke Harrison, a former Data 100 student.
 
 #### Regex
 + [Regex101.com](https://regex101.com). Remember to select the Python flavour of Regex!
-+ DS100 Reference [Sheet]({{site.baseurl}}/resources/assets/hw/regex_reference.pdf)
-+ We've organized some regular expressions(regex) problems to help you get extra practice on regex in a notebook format. They can be found [here](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su20&subPath=disc/disc05/extra/), along with their [solutions](assets/other/regex_practice_sol.pdf).
-+ The official Python3 regex guide is good: [link](https://docs.python.org/3/howto/regex.html)
++ The official [Python3 regex guide](https://docs.python.org/3/howto/regex.html) is good!
 
 #### LaTeX
 + [Quick Guide to Overleaf and LaTeX]({{site.baseurl}}/latex_guide)
@@ -92,13 +90,11 @@ As a data scientist you will often need to search for information on various lib
   - [Bash Part 2](https://drive.google.com/file/d/0B6nL03OcEigncUxXNnNmV3VuN1U/view): Part 2 of the intro to command line. -->
 
 - **Python:**
-  - [DS100 Textbook scikit-learn Reference Table](https://www.textbook.ds100.org/ch/a04/ref_sklearn.html)
   - [Python Tutorial](https://docs.python.org/3.5/tutorial/): Teach yourself python. This is a pretty comprehensive tutorial.
   - [Python + Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/) this tutorial provides a great overview of a lot of the functionality we will be using in DS100.
   - [Python 101](http://nbviewer.jupyter.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/Python_101.ipynb): A notebook demonstrating a lot of python functionality with some (minimal explanation).
 
 - **Data Visualization:**
-  - [DS100 Textbook Seaborn Reference Table](https://www.textbook.ds100.org/ch/a04/ref_seaborn.html) and [Matplotlib Reference Table](https://www.textbook.ds100.org/ch/a04/ref_matplotlib.html)
   - [matplotlib.pyplot tutorial](http://matplotlib.org/users/pyplot_tutorial.html#pyplot-tutorial): This short tutorial provides an overview of the basic plotting utilities we will be using.
   - [Pandas Tutor](https://pandastutor.com).
   - [Kernel Density Visualization](https://mathisonian.github.io/kde/).
@@ -149,7 +145,6 @@ Least Squares ([Note 23](https://inst.eecs.berkeley.edu/~ee16a/fa19/lecture/Note
 
 
 #### Probability
-+ We've compiled a few practice probability problems that we believe may help in understanding the ideas covered in the course. They can be found [here](assets/other/prob_practice.pdf), along with their [solutions](assets/other/prob_practice_solutions.pdf).
 + We'd also like to point you to the [textbook for Data C88S](http://stat88.org/textbook/content/intro.html), an introductory probability course geared towards data science students at Berkeley.
 
 
@@ -188,7 +183,7 @@ You can find UC Berkeley’ COVID-19 resources and support [here](https://corona
 
 ### For academic performance, support, and technology
 {:.no_toc}
-The [Center for Access to Engineering Excellence](https://engineering.berkeley.edu/student-services/academic-support) (Bechtel Engineering Center 227) is an inclusive center that offers study spaces, nutritious snacks, and tutoring in >50 courses for Berkeley engineers and other majors across campus. The Center also offers a wide range of professional development, leadership, and wellness programs, and loans iclickers, laptops, and professional attire for interviews.
+The [Center for Access to Engineering Excellence](https://engineering.berkeley.edu/student-services/academic-support) (325 Davis Hall) is an inclusive center that offers study spaces, nutritious snacks, and tutoring in >50 courses for Berkeley engineers and other majors across campus. The Center also offers a wide range of professional development, leadership, and wellness programs, and loans iclickers, laptops, and professional attire for interviews.
 
 As the primary academic support service for undergraduates at UC Berkeley, the [Student Learning Center](http://slc.berkeley.edu/) (510-642-7332) assists students in transitioning to Cal, navigating the academic terrain, creating networks of resources, and achieving academic, personal, and professional goals. Through various services including tutoring, study groups, workshops, and courses, SLC supports undergraduate students in Biological and Physical Sciences, Business Administration, Computer Science, Economics, Mathematics, Social Sciences, Statistics, Study Strategies, and Writing.
 
@@ -208,7 +203,7 @@ The [Disabled Students’ Program](https://dsp.berkeley.edu/) (DSP, 260 César C
 
 ### For solving a dispute
 {:.no_toc}
-The [Ombudsperson for Students](https://sa.berkeley.edu/Ombuds) (Sproul Hall 102; 510-642-5754) provides a confidential service for students involved in a University-related problem (academic or administrative), acting as a neutral complaint resolver and not as an advocate for any of the parties involved in a dispute. The Ombudsperson can provide information on policies and procedures affecting students, facilitate students’ contact with services able to assist in resolving the problem, and assist students in complaints concerning improper application of University policies or procedures. All matters referred to this office are held in strict confidence. The only exceptions, at the sole discretion of the Ombudsperson, are cases where there appears to be imminent threat of serious harm.
+The [Ombudsperson for Students](https://sa.berkeley.edu/Ombuds) (Sproul Hall 250; 510-642-5754) provides a confidential service for students involved in a University-related problem (academic or administrative), acting as a neutral complaint resolver and not as an advocate for any of the parties involved in a dispute. The Ombudsperson can provide information on policies and procedures affecting students, facilitate students’ contact with services able to assist in resolving the problem, and assist students in complaints concerning improper application of University policies or procedures. All matters referred to this office are held in strict confidence. The only exceptions, at the sole discretion of the Ombudsperson, are cases where there appears to be imminent threat of serious harm.
 
 The [Student Advocate’s Office](https://advocate.berkeley.edu/) (SAO) is an executive, non-partisan office of the ASUC. We offer free, confidential casework services and resources to any student(s) navigating issues with the University, including academic, conduct, financial aid, and grievance concerns. All support is centered around students and aims for an equity-based approach.
 
@@ -242,9 +237,3 @@ The [UC Berkeley Food Pantry](https://pantry.berkeley.edu/) (#68 Martin Luther K
 ## Data Science Education
 
 Interested in bringing the Data Science major or curriculum to your academic institution?  Please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSfw6iN-V58Urvg7RRfbjNQceisLULBizg0qku1_2qV8cvOtvA/viewform) if you would like support from Berkeley in offering some variant of our Data Science courses at your institution (or just to let us know that you're interested). Information about the courses appear at [data8.org](http://data8.org) and [ds100.org](http://ds100.org). Please note that this form is only for instructors. If you are only interested in learning Python or data science, please look at our Data 8 or Data 100 websites mentioned above.
-
-## Local Setup (Old)
-
-**NOTE:** This section is out of date and no longer supported by the course staff.
-
-Click [here]({{ site.baseurl }}/setup) to read our guide on how to set up our development environment locally (as an alternative to using DataHub). Please note that any autograder tests will only work on DataHub.
