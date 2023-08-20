@@ -1,6 +1,7 @@
 ---
 name: Rohan Jha
 role: Other
+team: Head TA
 email: rohan.jha@berkeley.edu
 website: https://www.youtube.com/watch?v=bU0tKzy5-uE
 photo: http://ds100.org/fa23-testing/resources/assets/staff_pics/Rohan_Jha.jpg
