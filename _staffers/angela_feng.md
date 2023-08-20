@@ -2,7 +2,7 @@
 name: Angela Feng
 role: UCS2
 email: anfeng2@berkeley.edu
-website: https://angelaxfeng.com/
+website:
 photo: http://ds100.org/fa23-testing/resources/assets/staff_pics/Angela_Feng.jpg
 pronouns: She/Her/Hers
 ---
