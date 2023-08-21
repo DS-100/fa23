@@ -161,6 +161,9 @@ There will be two exams in this course:
 
 **All exams must be taken in-person.** There will be no alternate exams offered.
 
+### Graduate Final Project
+All students enrolled in the graduate version of the course (CS C200A or Stat C200C, i.e. Data 200; Data 200S) will be graded according to the Graduate grading scheme, which includes a team-based **Graduate Final Project** distributed in the second half of the semester. More details to be released soon.
+
 ## Office Hours and Communication
 
 We want to enable everyone to succeed in this course. We encourage you to discuss course content with your friends, classmates, and course staff throughout the semester, particularly during **office hours**.
@@ -191,7 +194,7 @@ Ed is your primary platform for asking questions about the class. It is monitore
 | --- | --- | --- | --- | --- |
 | Homeworks | 25% | 20%| 25%| No drop|
 | Projects | 15% | 15%| 15%| No drop|
-| Labs | 5% |  - |  5% | No drop for Data 100|
+| Labs | 5% |  - |  5% | No drop|
 | Discussions | 5% | - | - | Drop 3 lowest scores|
 | Lecture Participation | 5% | 5% |5% | Drop 3 lowest scores|
 | Midterm Exam | 15% | 15%| 20%| |
