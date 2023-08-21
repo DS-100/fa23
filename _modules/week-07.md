@@ -3,7 +3,7 @@ title: Week 7
 ---
 
 Oct 3
-: **Lecture 12**{: .label .label-lecture } Orindary Least Squares
+: **Lecture 12**{: .label .label-lecture } Ordinary Least Squares
 : **Discussion 6**{: .label .label-disc } Models
 
 Oct 5
