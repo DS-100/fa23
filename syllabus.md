@@ -142,7 +142,7 @@ Live **discussion sections** are one hour long, held on Tuesdays or Wednesdays. 
 - All lab autograder tests are visible.
 - We will not be having lab sections for Data 100/200 this semester. Rather, we'll provide extensive lab support on Ed and an accompanying video walkthroughs. For Data 200S students, please contact us.
 - All labs are intended to take about an hour.
-- Lab submissions are mandatory for students enrolled in Data 100. Lab submissions are not mandatory for students enrolled in Data 200. See the [Policies](#policies) section for the submission grace period.
+- Lab submissions are mandatory for students enrolled in Data 100 and Data 200S. Lab submissions are not mandatory for students enrolled in Data 200. See the [Policies](#policies) section for the submission grace period.
 
 ### Exams
 
@@ -183,7 +183,7 @@ Ed is your primary platform for asking questions about the class. It is monitore
 | --- | --- | --- | --- | --- |
 | Homeworks | 25% | 20%| 25%| No drop|
 | Projects | 15% | 15%| 15%| No drop|
-| Labs | 5% |  - |  5% | No drop for Data 100, Drop 3 lowest scores for Data 200S|
+| Labs | 5% |  - |  5% | No drop for Data 100|
 | Discussions | 5% | - | - | Drop 3 lowest scores|
 | Lecture Participation | 5% | 5% |5% | Drop 3 lowest scores|
 | Midterm Exam | 15% | 15%| 20%| |
