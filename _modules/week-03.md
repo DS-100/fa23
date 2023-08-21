@@ -11,4 +11,4 @@ Sep 7
 
 Sep 8
 : **Lab 3**{: .label .label-lab } Data Cleaning and EDA (due Sep 12)
-: **Homework 3**{: .label .label-hw } To be announced (due Sep 13)
+: **Homework 2B**{: .label .label-hw } TBD (due Sep 14)

@@ -11,4 +11,4 @@ Oct 5
 
 Oct 6
 : **Lab 7**{: .label .label-lab } Orindary Least Squares (due Oct 10)
-: **Homework 7**{: .label .label-hw } Regression (due Oct 12)
+: **Homework 6**{: .label .label-hw } Regression (due Oct 12)

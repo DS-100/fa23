@@ -10,4 +10,4 @@ Nov 30
 : **Lecture 28**{: .label .label-lecture} Closing
 
 Dec 1
-: **Lab 15**{: .label .label-lab } Clustering
+: **Lab 15**{: .label .label-lab } Clustering (due Dec 5)

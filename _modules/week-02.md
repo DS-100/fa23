@@ -11,4 +11,4 @@ Aug 31
 
 Sep 1
 : **Lab 2**{: .label .label-lab } Pandas (due Sep 5)
-: **Homework 2**{: .label .label-hw } Food Safety (due Sep 7)
+: **Homework 2A**{: .label .label-hw } Food Safety (due Sep 7)

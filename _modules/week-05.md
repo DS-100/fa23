@@ -11,4 +11,4 @@ Sep 21
 
 Sep 22
 : **Lab 5**{: .label .label-lab } Transformations (due Sep 26)
-: **Homework 5**{: .label .label-hw } Bike Sharing (due Sep 28)
+: **Homework 4**{: .label .label-hw } Bike Sharing (due Sep 28)
