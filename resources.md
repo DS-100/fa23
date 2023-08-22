@@ -51,12 +51,12 @@ Alongside each lecture are optional textbook readings to the Data 100 textbook, 
 <a name = 'course_website'></a>
 ## Course Website
 
-We will be posting all lecture materials on the course syllabus. In addition, they will also be listed in the following publicly visible [Github Repo](https://github.com/DS-100/fa23).
+We will be posting all lecture materials on the course syllabus. In addition, they will also be listed in the following publicly visible [github repository](https://github.com/DS-100/fa23-student).
 
 You can send us changes to the course website by
 [forking](https://help.github.com/articles/fork-a-repo/) and sending a [pull
 request](https://help.github.com/articles/about-pull-requests/) to the course
-website github repository. We will update this section with the course website github repository link when available. You will then
+website [github repository](https://github.com/DS-100/fa23). You will then
 become part of the history of Data 100 at Berkeley.
 
 ## Coding and Mathematics Resources
