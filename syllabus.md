@@ -157,7 +157,7 @@ Live **discussion sections** are one hour long, held on Tuesdays or Wednesdays. 
 There will be two exams in this course:
 
 - **Midterm** on **Wednesday, October 18** 7-9 PM PST.
-- **Final** on **Thursday, December 12** 11:30-2:30 PM PST.
+- **Final** on **Thursday, December 14** 11:30-2:30 PM PST.
 
 **All exams must be taken in-person.** There will be no alternate exams offered.
 
