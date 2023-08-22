@@ -51,7 +51,7 @@ Alongside each lecture are optional textbook readings to the Data 100 textbook, 
 <a name = 'course_website'></a>
 ## Course Website
 
-We will be posting all lecture materials on the course syllabus. In addition, they will also be listed in the following publicly visible [Github Repo](https://github.com/DS-100/fa23-student).
+We will be posting all lecture materials on the course syllabus. In addition, they will also be listed in the following publicly visible [Github Repo](https://github.com/DS-100/fa23).
 
 You can send us changes to the course website by
 [forking](https://help.github.com/articles/fork-a-repo/) and sending a [pull
