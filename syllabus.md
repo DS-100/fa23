@@ -148,7 +148,7 @@ Live **discussion sections** are one hour long, held on Tuesdays or Wednesdays. 
 **Labs** are shorter, weekly programming assignments designed to give students familiarity with new ideas. They are meant to be completed prior to homework.
 - All lab assignments must be submitted to Gradescope by their posted deadlines.
 - All lab autograder tests are visible.
-- We will not be having lab sections for Data 100/200 this semester. Rather, we'll provide extensive lab support on Ed and an accompanying video walkthroughs. For Data 200S students, please contact us.
+- We will not be having lab sections for Data 100/200 this semester. Rather, we'll provide extensive lab support on Ed and an accompanying video walkthroughs.
 - All labs are intended to take about an hour.
 - Lab submissions are mandatory for students enrolled in Data 100 and Data 200S. Lab submissions are not mandatory for students enrolled in Data 200. See the [Policies](#policies) section for the submission grace period.
 
