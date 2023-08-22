@@ -1,5 +1,5 @@
 ---
-name: Yiqing
+name: Yiqing Zhang
 role: UCS1
 email: yiqing_zhang@berkeley.edu
 website: 
