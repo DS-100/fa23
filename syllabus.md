@@ -10,9 +10,9 @@ course:
     edstem: 
     faq: https://ds100.org/faqs/fa23/
     bcourses: ""
-    instructors: Bella and Dominic
-    head_ta_1: Mihran Miroyan
-    head_1_email: miroyan.mihran@berkeley.edu
+    instructors:
+    head_ta_1:
+    head_1_email:
     head_ta_2: 
     head_2_email: 
     comms_ta: support email
