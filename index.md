@@ -6,7 +6,7 @@ description: A week-to-week description of the content covered in the course.
 course:
   edstem: https://edstem.org/us/courses/33744/
   faq: https://ds100.org/fa23faq
-currWeekNumber: 8
+currWeekNumber: 1
 ---
 
 # Data 100: Principles and Techniques of Data Science
@@ -16,7 +16,7 @@ UC Berkeley, Fall 2023
 {: .mb-0 .fs-6 .text-grey-dk-000 }
 
 
-[comment]: <> ([Ed](){:target="_blank" .btn .btn-ed .mr-1 })
+[Ed](https://edstem.org/us/courses/42444/discussion/){:target="_blank" .btn .btn-ed .mr-1 }
 [Datahub](http://data100.datahub.berkeley.edu/){:target="_blank" .btn .btn-datahub .mr-1 }
 [Gradescope](https://www.gradescope.com/courses/564792){:target="_blank" .btn .btn-gradescope .mr-1 }
 [Extenuating Circumstances](https://forms.gle/pm7VYsDeCpaBMc9r6){:target="_blank" .btn .btn-blue .mr-1 }
@@ -31,9 +31,7 @@ UC Berkeley, Fall 2023
 </div>
 
 {: .highlight }
-> Welcome to Data 100!
-
-[//]: <> > Welcome to [Week 1](#week-{{page.currWeekNumber}})!
+> Welcome to [Week 1](#week-{{page.currWeekNumber}}) of Data 100!
 
 
 <a name="schedule"></a>
