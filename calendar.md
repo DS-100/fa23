@@ -38,7 +38,7 @@ Instructor office hours with Prof. Norouzi and Prof. Pérez appear in <span styl
 This calendar contains times for
 
 - lectures (in <span style="color:brown">**brown**</span>)
-- in-perosn discussion sections (in <span style="color:orange">**orange**</span>)
+- in-person discussion sections (in <span style="color:orange">**orange**</span>)
 - remote discussion sections (in <span style="color:blue">**blue**</span>)
 - exam prep sections and other reviews (in <span style="color:SeaGreen">**green**</span>)
 
