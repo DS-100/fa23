@@ -37,12 +37,13 @@ Instructor office hours with Prof. Norouzi and Prof. Pérez appear in <span styl
 
 This calendar contains times for
 
-- live lectures (in <span style="color:brown">**brown**</span>)
-- live discussion sections (in <span style="color:orange">**orange**</span>)
-- live exam prep and other reviews (in <span style="color:SeaGreen">**green**</span>)
+- lectures (in <span style="color:brown">**brown**</span>)
+- in-perosn discussion sections (in <span style="color:orange">**orange**</span>)
+- remote discussion sections (in <span style="color:blue">**blue**</span>)
+- exam prep sections and other reviews (in <span style="color:SeaGreen">**green**</span>)
 
 <!-- **Note: All events on this calendar are virtual.** -->
 
 <!-- To access these events, use the Zoom links posted in <b><a href="">@6 on Piazza</a></b>. -->
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&showTitle=0&mode=WEEK&src=Y191NGF0bWVhdGxwNzZ2ZXUyN3ZvMGFybm02Y0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=Y190OGE0MzY1cGhmY20wMGUyOW1oMXVha3Fuc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=Y19mbzdiMzVzazY1Z25hZ212amhzMGtjY3RzOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23F09300&color=%237CB342&color=%23795548" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&showTitle=0&mode=WEEK&src=c_fo7b35sk65gnagmvjhs0kccts8%40group.calendar.google.com&src=c_u4atmeatlp76veu27vo0arnm6c%40group.calendar.google.com&src=c_0126f8dc8dc6b4a4ad7cd0f2f81a0b6f457ca5cc7c7e7e1de57b9d7bdadc1b4c%40group.calendar.google.com&color=%23795548&color=%23F09300&color=%233F51B5&color=%237CB342" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
