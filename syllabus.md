@@ -50,7 +50,7 @@ While we are working to make this class widely accessible, we currently require 
 
 - **Computing**: The Structure and Interpretation of Computer Programs ([CS 61A](http://cs61a.org/){:target="_blank"}) or Computational Structures in Data Science ([Data 88C](https://c88c.org/){:target="_blank"}). These courses provide additional background in python programming (e.g., for loops, lambdas, debugging, and complexity) that will enable Data 100 to focus more on the concepts in Data Science and less on the details of programming in python.
 
-- **Math**: Linear Algebra (Math 54, EECS 16A, Math 91, Math 110, or Stat 89A). We will need some basic concepts like linear operators, eigenvectors, derivatives, and integrals to enable statistical inference and derive new prediction algorithms. **This may be satisfied concurrently to Data 100.**
+- **Math**: Linear Algebra (Math 54, EECS 16A, Math 56, Math 110, or Stat 89A). We will need some basic concepts like linear operators, eigenvectors, derivatives, and integrals to enable statistical inference and derive new prediction algorithms. **This may be satisfied concurrently to Data 100.**
 
 Please consult the [Resources](../resources) page for additional resources for reviewing prerequisite material.
 
