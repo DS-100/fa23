@@ -4,7 +4,7 @@ title: Week 14
 
 Nov 21
 : **Lecture 26**{: .label .label-lecture } PCA II
-: **Discussion 12**{: .label .label-disc } Logistic Regression II
+: **Discussion 13**{: .label .label-disc } Logistic Regression II
 
 Nov 23
 : **Lecture**{: .label .label-lecture} No Lecture (Thanksgiving)

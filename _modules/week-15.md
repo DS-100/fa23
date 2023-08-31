@@ -4,7 +4,7 @@ title: Week 15
 
 Nov 28
 : **Lecture 27**{: .label .label-lecture } KMeans Clustering
-: **Discussion 12**{: .label .label-disc } PCA
+: **Discussion 14**{: .label .label-disc } PCA
 
 Nov 30
 : **Lecture 28**{: .label .label-lecture} Closing
