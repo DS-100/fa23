@@ -11,6 +11,7 @@ Aug 29
 
 Aug 31
 : **Lecture 3**{: .label .label-lecture} Pandas II
+    : [Note 3](https://ds100.org/course-notes/pandas_2/pandas_2.html)
 
 Sep 1
 : **Lab 2**{: .label .label-lab } Pandas (due Sep 5)
