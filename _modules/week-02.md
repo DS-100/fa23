@@ -13,6 +13,7 @@ Aug 31
 
 : **Lecture 3**{: .label .label-lecture} [Pandas II](lecture/lec03)
     : [Note 3](https://ds100.org/course-notes/pandas_2/pandas_2.html)
+: **Lecture Participation 3**{: .label .label-survey } [Lecture Participation 3](https://app.sli.do/event/61pzr75VjmSxRLhMyVvepb/embed/polls/ff7390f5-64a7-4785-bc4c-48ee8a1e5618){:target="_blank"}
 
 Sep 1
 : **Lab 2**{: .label .label-lab } [Pandas](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa23-student&urlpath=lab%2Ftree%2Ffa23-student%2F%2Flab%2Flab02A%2Flab02A.ipynb&branch=main){:target="_blank"} (due Sep 5)
