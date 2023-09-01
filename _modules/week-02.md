@@ -15,5 +15,5 @@ Aug 31
     : [Note 3](https://ds100.org/course-notes/pandas_2/pandas_2.html)
 
 Sep 1
-: **Lab 2**{: .label .label-lab } Pandas (due Sep 5)
-: **Homework 2A**{: .label .label-hw } Food Safety (due Sep 7)
+: **Lab 2**{: .label .label-lab } [Pandas](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa23-student&urlpath=lab%2Ftree%2Ffa23-student%2F%2Flab%2Flab02A%2Flab02A.ipynb&branch=main){:target="_blank"} (due Sep 5)
+: **Homework 2A**{: .label .label-hw } [Food Safety](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa23-student&urlpath=lab%2Ftree%2Ffa23-student%2F%2Fhw%2Fhw02A%2Fhw02A.ipynb&branch=main){:target="_blank"} (due Sep 7)
