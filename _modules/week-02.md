@@ -16,5 +16,5 @@ Aug 31
 : **Lecture Participation 3**{: .label .label-survey } [Lecture Participation 3](https://app.sli.do/event/61pzr75VjmSxRLhMyVvepb/embed/polls/ff7390f5-64a7-4785-bc4c-48ee8a1e5618){:target="_blank"}
 
 Sep 1
-: **Lab 2**{: .label .label-lab } [Pandas](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa23-student&urlpath=lab%2Ftree%2Ffa23-student%2F%2Flab%2Flab02A%2Flab02A.ipynb&branch=main){:target="_blank"} (due Sep 5)
+: **Lab 2A**{: .label .label-lab } [Pandas](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa23-student&urlpath=lab%2Ftree%2Ffa23-student%2F%2Flab%2Flab02A%2Flab02A.ipynb&branch=main){:target="_blank"} (due Sep 5)
 : **Homework 2A**{: .label .label-hw } [Food Safety](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa23-student&urlpath=lab%2Ftree%2Ffa23-student%2F%2Fhw%2Fhw02A%2Fhw02A.ipynb&branch=main){:target="_blank"} (due Sep 7)

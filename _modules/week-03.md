@@ -10,5 +10,5 @@ Sep 7
 : **Lecture 5**{: .label .label-lecture} Data Cleaning and EDA
 
 Sep 8
-: **Lab 3**{: .label .label-lab } Data Cleaning and EDA (due Sep 12)
+: **Lab 2B**{: .label .label-lab } Data Cleaning and EDA (due Sep 12)
 : **Homework 2B**{: .label .label-hw } TBD (due Sep 14)
