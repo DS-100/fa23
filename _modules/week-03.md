@@ -9,7 +9,7 @@ Sep 5
     : [Solution](https://drive.google.com/file/d/1SWchCno0IjOp1dWXqZnzX6lstGa_4fTn/view?usp=sharing){:target="_blank"}
 
 Sep 7
-: **Lecture 5**{: .label .label-lecture} Data Cleaning and EDA
+: **Lecture 5**{: .label .label-lecture} [Data Cleaning and EDA](lecture/lec05)
 
 Sep 8
 : **Lab 2B**{: .label .label-lab } Data Cleaning and EDA (due Sep 12)
