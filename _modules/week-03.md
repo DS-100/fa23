@@ -15,5 +15,5 @@ Sep 7
 
 Sep 8
 : **Exam Prep 1**{: .label .label-vit } [Pandas](https://drive.google.com/file/d/1NgXIU99ZgVarKIyIRdEzxre5jkZ48exi/view?usp=sharing){:target="_blank"}
-: **Lab 2B**{: .label .label-lab } Data Cleaning and EDA (due Sep 12)
-: **Homework 2B**{: .label .label-hw } TBD (due Sep 14)
+: **Lab 2B**{: .label .label-lab } [Data Cleaning and EDA](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa23-student&urlpath=lab%2Ftree%2Ffa23-student%2Flab%2Flab02B%2Flab02B.ipynb&branch=main){:target="_blank"} (due Sep 12)
+: **Homework 2B**{: .label .label-hw } [Food Safety II](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa23-student&urlpath=lab%2Ftree%2Ffa23-student%2Fhw%2Fhw02B%2Fhw02B.ipynb&branch=main){:target="_blank"} (due Sep 14)
