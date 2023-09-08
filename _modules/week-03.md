@@ -11,6 +11,7 @@ Sep 5
 
 Sep 7
 : **Lecture 5**{: .label .label-lecture} [Data Cleaning and EDA](lecture/lec05)
+: **Lecture Participation 5**{: .label .label-survey } [Lecture Participation 5](https://app.sli.do/event/761XmYRMJ5Mx1XKGmSAb1M/embed/polls/2db0d0dc-83a1-4043-9d2b-43a21e0cd8e2){:target="_blank"}
 
 Sep 8
 : **Exam Prep 1**{: .label .label-vit } [Pandas](https://drive.google.com/file/d/1NgXIU99ZgVarKIyIRdEzxre5jkZ48exi/view?usp=sharing){:target="_blank"}
