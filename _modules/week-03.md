@@ -13,5 +13,6 @@ Sep 7
 : **Lecture 5**{: .label .label-lecture} [Data Cleaning and EDA](lecture/lec05)
 
 Sep 8
+: **Exam Prep 1**{: .label .label-vit } [Pandas](https://drive.google.com/file/d/1NgXIU99ZgVarKIyIRdEzxre5jkZ48exi/view?usp=sharing){:target="_blank"}
 : **Lab 2B**{: .label .label-lab } Data Cleaning and EDA (due Sep 12)
 : **Homework 2B**{: .label .label-hw } TBD (due Sep 14)
