@@ -22,9 +22,9 @@ UC Berkeley, Fall 2023
 [Extenuating Circumstances](https://forms.gle/pm7VYsDeCpaBMc9r6){:target="_blank" .btn .btn-blue .mr-1 }
 
 <div>
-{% assign instructors = site.staffers | where: 'role', 'Instructor' %}
   <div class="role">
-    {% for staffer in instructors %}
+  {% assign a = site.staffers | where: 'team', 'Head TA' %}
+    {% for staffer in a %}
     {{ staffer }}
     {% endfor %}
   </div>
