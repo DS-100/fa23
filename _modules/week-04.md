@@ -3,7 +3,7 @@ title: Week 4
 ---
 
 Sep 12
-: **Lecture 6**{: .label .label-lecture } Regex
+: **Lecture 6**{: .label .label-lecture} [Regex (and finish EDA)](lecture/lec06)
 : **Discussion 3**{: .label .label-disc } Pandas II, EDA [Worksheet](https://drive.google.com/file/d/1frN5Juu3HRQ9B-yWI7PbMW9lwdqiTy6Y/view?usp=sharing){:target="_blank"}, [Groupwork notebook](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa23-student&urlpath=lab%2Ftree%2Ffa23-student%2Fdisc%2Fdisc03%2Fdisc03_groupwork.ipynb&branch=main){:target="_blank"}
 
 Sep 14
