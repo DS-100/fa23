@@ -9,7 +9,7 @@ Sep 12
     : [Solution](https://drive.google.com/file/d/135eN9q1DvOe5RHZ_uqb91IYywnCvdIXS/view?usp=sharing){:target="_blank"}
 
 Sep 14
-: **Lecture 7**{: .label .label-lecture} Visualization I
+: **Lecture 7**{: .label .label-lecture} [Visualization I](lecture/lec07)
 
 Sep 15
 : **Lab 3**{: .label .label-lab } Regex and EDA (due Sep 19)
