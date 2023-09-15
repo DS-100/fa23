@@ -12,5 +12,6 @@ Sep 14
 : **Lecture 7**{: .label .label-lecture} [Visualization I](lecture/lec07)
 
 Sep 15
+: **Exam Prep 2**{: .label .label-vit } [Pandas II, RegEx](https://drive.google.com/file/d/1eZ6_hqxH3FiZtGtJAAXanIrJWbte9kVl/view?usp=sharing){:target="_blank"}
 : **Lab 3**{: .label .label-lab } Regex and EDA (due Sep 19)
 : **Homework 3**{: .label .label-hw } Tweets (due Sep 21)
