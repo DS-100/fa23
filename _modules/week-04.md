@@ -11,6 +11,7 @@ Sep 12
 
 Sep 14
 : **Lecture 7**{: .label .label-lecture} [Visualization I](lecture/lec07)
+: **Lecture Participation 7**{: .label .label-survey } [Lecture Participation 7](https://app.sli.do/event/9jDiQPBb7sy3TR1gLfyS3n/embed/polls/7a4856ae-212f-44d8-b876-b441885ce523 ){:target="_blank"}
 
 Sep 15
 : **Exam Prep 2**{: .label .label-vit } Pandas II, RegEx [worksheet](https://drive.google.com/file/d/1eZ6_hqxH3FiZtGtJAAXanIrJWbte9kVl/view?usp=sharing){:target="_blank"}, [notebook](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa23-student&urlpath=lab%2Ftree%2Ffa23-student%2Fexam-preps%2Fexam-prep2%2Fexamprep2_notebook.ipynb&branch=main){:target="_blank"}
