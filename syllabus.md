@@ -185,7 +185,7 @@ Course Communication:
 Ed is your primary platform for asking questions about the class. It is monitored daily by the entire course staff, so questions posted to Ed will likely receive the fastest response. If you need to discuss a more sensitive matter, the following emails are monitored by a smaller subset of the teaching team:
 
 - For logistical questions: our course staff email is [data100.instructors@berkeley.edu](mailto:{{page.course.email}}). This email is monitored by the instructors, the head TAs, and a few lead TAs.
-- For extenuating circumstances/DSP: student accommodation requests will be handled via the [Extenuating Circumstances Form](https://forms.gle/GRREdhkik6bKm9bJA){:target="_blank"}. Our staff email for student support and DSP accommodations is [data100.support@berkeley.edu]((mailto:{{page.course.comms_email}})).
+- For extenuating circumstances/DSP: student accommodation requests will be handled via the [Extenuating Circumstances Form](https://forms.gle/pm7VYsDeCpaBMc9r6){:target="_blank"}. Our staff email for student support and DSP accommodations is [data100.support@berkeley.edu]((mailto:{{page.course.comms_email}})).
     - Please only contact the course instructors directly for matters that require strict privacy and their personal attention.
 
 ## Policies
@@ -239,7 +239,7 @@ Note that extenuating circumstances do not extend to logistical oversight, such 
 
 ### DSP Accommodations
 
-If you are registered with the Disabled Students’ Program (DSP) you can expect to receive an email from us during the first week of classes. Otherwise, email our [{{page.course.comms_ta}}](mailto: {{page.course.comms_email}}). DSP students who receive approved assignment accommodations will have the 1-day grace period added to the approved extension to the on-time deadline. Please note that any extension, plus the grace period combined, cannot exceed **7 days**. DSP students can submit assignment extension accommodation requests via the **[Extenuating Circumstances Form](https://forms.gle/GRREdhkik6bKm9bJA){:target="_blank"}**.
+If you are registered with the Disabled Students’ Program (DSP) you can expect to receive an email from us during the first week of classes. Otherwise, email our [{{page.course.comms_ta}}](mailto: {{page.course.comms_email}}). DSP students who receive approved assignment accommodations will have the 1-day grace period added to the approved extension to the on-time deadline. Please note that any extension, plus the grace period combined, cannot exceed **7 days**. DSP students can submit assignment extension accommodation requests via the **[Extenuating Circumstances Form](https://forms.gle/pm7VYsDeCpaBMc9r6){:target="_blank"}**.
 
 You are responsible for reasonable communication with course staff. If you make a request close to the deadline, we can not guarantee that you will receive a response before the deadline. Additionally, simply submitting a request does not guarantee you will receive an extension. Even if your work is incomplete, please submit before the deadline so you can receive credit for the work you did complete.
 
