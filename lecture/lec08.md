@@ -1,16 +1,15 @@
 ---
 layout: page
-title: Lecture 8 – Sampling
+title: Lecture 8 – Visualization II
 nav_exclude: true
 ---
 
-# Lecture 8 – Sampling
+# Lecture 8 – Visualization II
 
-Presented by Dominic Liu
+Presented by Narges Norouzi
 
 Content by many dedicated Data 100 instructors at UC Berkeley. See our [Acknowledgments](../../acks) page.
 
-- [slides](https://docs.google.com/presentation/d/1pF1sz4YSMeTHu_j47LdE4TBkidi1vY6Ei9HX6LIt8X0/edit?usp=sharing){:target="_blank"}
-- [code](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu23-materials&branch=main&urlpath=lab%2Ftree%2Fsu23-materials%2Flec%2Flec08%2Flec08.ipynb){:target="_blank"}
-- [code HTML](../../resources/assets/lectures/lec08/lec08.html)
-- [recording](https://bcourses.berkeley.edu/courses/1525605/pages/lecture-8-sampling)
+- [slides](https://docs.google.com/presentation/d/1gJo37PauLiUNz5qTlvYVx6m_noA_lV1OrvsJNLOefvY/edit?usp=sharing){:target="_blank"}
+- [code](http://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa23-student&urlpath=lab%2Ftree%2Ffa23-student%2Flecture%2Flec08%2Flec08.ipynb&branch=main){:target="_blank"}
+- [code HTML](../../resources/assets/lectures/lec08/lec08.html){:target="_blank"}
