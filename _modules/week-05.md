@@ -8,7 +8,7 @@ Sep 19
 : **Discussion 4**{: .label .label-disc } [EDA, RegEx](https://drive.google.com/file/d/1fHRf9yWtCvnFxdyKSaVdu7bmjtp3hl51/view?usp=sharing){:target="\_blank"}
 
 Sep 21
-: **Lecture 9**{: .label .label-lecture} Sampling
+: **Lecture 9**{: .label .label-lecture} [Sampling](lecture/lec09)
 
 Sep 22
 : **Lab 4**{: .label .label-lab } Transformations (due Sep 26)
