@@ -10,6 +10,7 @@ Sep 19
 
 Sep 21
 : **Lecture 9**{: .label .label-lecture} [Sampling](lecture/lec09)
+: **Lecture Participation 9**{: .label .label-survey } [Lecture Participation 9](https://app.sli.do/event/rQejYaK3Q7G16jR2a5uXqE/embed/polls/02380580-69da-4afa-af0d-f408c8a67204){:target="_blank"}
 
 Sep 22
 : **Lab 4**{: .label .label-lab } Transformations (due Sep 26)
