@@ -176,7 +176,7 @@ You can access all the data within the `Topic 3/Dataset B` directory on Google D
 - `fitness_recommendation.txt` contains a link to access the fitness data from sequential sensors for various workouts. ([documentation](https://sites.google.com/eng.ucsd.edu/fitrec-project/home))
 - `amazon_reviews.txt` contains a link to access the data on a subset of Amazon product reviews. The report includes metadata such as ratings and text on the reviews and general information about the product. ([documentation](https://nijianmo.github.io/amazon/index.html))
 
-## <span style="color:red"> Checkpoint 1: EDA </span>
+## <span style="color:red"> Checkpoint 1: EDA + Internal Peer Review</span>
 
 The checkpoint is intended to keep you on track to meet your project goals. You will need to submit exploration data analysis results on Gradescope. This will include submitting both a report of your results so far as well as all code necessary to replicate your results. <!-- See the rubric [here](#checkpoint-rubric). -->
 
