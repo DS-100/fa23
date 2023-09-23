@@ -194,7 +194,7 @@ The checkpoint is intended to keep you on track to meet your project goals. You 
 - **Other Preliminary Results (optional)**: Please optionally post any other preliminary results here for our information. 
 
 ## <span style="color:red"> Final Project Report </span>
-The project submission should include the following two components.
+<!--The project submission should include the following two components.
 
 ### [Component 1] Analysis Notebooks
 
@@ -265,6 +265,7 @@ studentIDs/
 ```
 
 For groups with multiple members, please use student IDs joined by `_` as the name for the top-level directory. The analysis notebooks must be runnable within this directory structure. If the narrative PDF includes any figures that are created in the analysis notebooks, the figures should be saved to `figures/` by the analysis notebooks.
+-->
 
 <!---
 ## Rubrics
