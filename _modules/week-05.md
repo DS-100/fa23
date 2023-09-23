@@ -14,5 +14,6 @@ Sep 21
 
 Sep 22
 : **Exam Prep 3**{: .label .label-vit } [Visualization](https://drive.google.com/file/d/1cLd-jts3PrfdedO2pStH2SYOPlfE_DFj/view?usp=sharing){:target="_blank"}
+    : [Solution](https://drive.google.com/file/d/1a7qhYVaTsQLraYMsxDSQ71TbJX0cmaJv/view?usp=sharing){:target="_blank"}
 : **Lab 4**{: .label .label-lab } [Transformations](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa23-student&urlpath=lab%2Ftree%2Ffa23-student%2Flab%2Flab04%2Flab04.ipynb&branch=main){:target="_blank"} (due Sep 26)
 : **Homework 4**{: .label .label-hw } [Bike Sharing](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa23-student&urlpath=lab%2Ftree%2Ffa23-student%2Fhw%2Fhw04%2Fhw04.ipynb&branch=main){:target="_blank"} (due Sep 28)
