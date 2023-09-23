@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Graduate Project
+title: Graduate Project - Testing
 nav_order: 6
 nav_exclude: true
 description: Specifications for the grad project for Data 200.
