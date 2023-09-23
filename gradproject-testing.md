@@ -6,7 +6,7 @@ nav_exclude: true
 description: Specifications for the grad project for Data 200.
 markdown: kramdown
 ---
-# Graduate Project
+# Graduate Project - Testing
 {:.no_toc}
 
 * TOC
