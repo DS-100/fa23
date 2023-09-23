@@ -9,7 +9,7 @@ markdown: kramdown
 # Graduate Project - Testing
 {:.no_toc}
 
-# <span style="color:red"> ⚠️ Warning: This webpage is under construction; nothing here is finalized until it is on ds100.org/fa23/gradproject </span>
+### <span style="color:red"> ⚠️ Warning: This webpage is under construction; nothing here is finalized until it is on ds100.org/fa23/gradproject </span>
 {:.no_toc}
 
 * TOC
