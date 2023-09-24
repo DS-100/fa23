@@ -71,7 +71,7 @@ Should you need to connect together multiple datasets, please be sure to consult
 All the datasets provided by us can be found inside the following link on Google Drive:
 
 <p align="center">
-<a href="https://drive.google.com/drive/u/0/folders/1WGxxvFMqXutk3WKGqbHYJx0urmQp9Lbw">Graduate Project Datasets Google Drive</a>
+<a href="https://drive.google.com/drive/folders/1GiQJ-wu_ZKr_9FZGqyY-aBHahkDObdAr?usp=drive_link">Graduate Project Datasets Google Drive</a>
 </p>
 
 If you wish to work on Datahub, use the following instructions on how to easily move the data from Google Drive onto Datahub (keep in mind that your Datahub kernel can only manage 2GB of memory at maximum).
@@ -176,6 +176,7 @@ A recommender system is an information filtering system that focuses on predicti
 You can access all the data within the `Topic 3/Dataset B` directory on Google Drive. It includes the following reports:
 - `fitness_recommendation.txt` contains a link to access the fitness data from sequential sensors for various workouts. ([documentation](https://sites.google.com/eng.ucsd.edu/fitrec-project/home))
 - `amazon_reviews.txt` contains a link to access the data on a subset of Amazon product reviews. The report includes metadata such as ratings and text on the reviews and general information about the product. ([documentation](https://nijianmo.github.io/amazon/index.html))
+- `frappe.csv` and `meta.csv` contain data on mobile app usage for users in various contexts. For general information about the dataset, please refer to `frappe_README.txt`.
 
 ## <span style="color:red"> Checkpoint 1: EDA + Internal Peer Review</span>
 
