@@ -28,7 +28,7 @@ The purpose of the project is to give students experience in both open-ended dat
 
 There are **six** deliverables in the graduate project element of the course. 
 <ul>
-<li><b>Group Formation + Research Proposal:</b> You will form a project group and will submit a google form stating your research proposal.</li>
+<li><b>Group Formation + Research Proposal:</b> You will form a project group and will submit a google form stating your research proposal. Please see <a href="#group-formation--research-proposal">below</a> for more information. </li>
 <li><b>Checkpoint 1: EDA + Internal Peer Review:</b> You will need to submit a write-up + code for Exploratory Data Analysis on your dataset. You will also have to submit an internal peer review. Please see <a href="#checkpoint-1-eda--internal-peer-review">below</a> for more information. </li>
 <li><b>Checkpoint 2: Mandatory Check-In:</b> You will need to write a one-pager of your progress (with a focus on modeling approaches your team explored) and review it with a course staff member. More information will be announced later. </li>
 <li><b>Checkpoint 3: Project Report First Draft + Internal Peer Review:</b> This will be your first draft; you will be required to submit a report of your EDA and modeling along with any code necessary to reproduce your results. You will also have to submit an internal peer review. More information will be announced later.</li>
@@ -44,7 +44,7 @@ There are **six** deliverables in the graduate project element of the course.
 
 | Deadline (at 11:59pm Pacific)| Event / Deliverable | Link | Grading Weight |
 |--------------------------	|---------------------------------------------	|---------------------------------------------	|-----------|
-| 10/06 | Group Formation + Research Proposal| | 5% |
+| 10/06 | Group Formation + Research Proposal| [Google Form](https://forms.gle/KnJPVvbcr6j6wt7GA) | 5% |
 | 10/20 | Checkpoint 1: EDA | | 10% |
 | Week of 11/6 | Checkpoint 2: Mandatory Check-In  | | 7.5% |
 | 11/24 | Checkpoint 3: Project Report First Draft	| | 20% |
