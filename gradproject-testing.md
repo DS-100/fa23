@@ -195,7 +195,7 @@ The frappe dataset contains a context-aware app usage log consisting of 96,203 e
 
 ## Group Formation + Research Proposal
 
-The first deliverable of your group project is just to form your group, choose a dataset and submit your research proposal to [this google form](https://forms.gle/KnJPVvbcr6j6wt7GA) by 11:59 pm on 10/06. Along with your research proposal, you are required to briefly explore your chosen dataset and describe it in one paragraph. You may form groups of 2 or 3 people with any Data 200A/200A/200S student. If you are having trouble finding a group, we can assign you to a group if you fill out this [form](https://forms.gle/nPHpmAWgGbjkPYtEA) by 11:59pm on 9/29.
+The first deliverable of your group project is just to form your group, choose a dataset and submit your research proposal to [this google form](https://forms.gle/KnJPVvbcr6j6wt7GA) by 11:59 pm on 10/06. Along with your research proposal, you are required to briefly explore your chosen dataset and describe it in one paragraph. You may form groups of 2 or 3 people with any Data 200A/200A/200S student. If you are having trouble finding a group, we can assign you to a group if you fill out this [form](https://forms.gle/nPHpmAWgGbjkPYtEA) by 11:59pm on 9/30.
 
 ## Checkpoint 1: EDA + Internal Peer Review
 
