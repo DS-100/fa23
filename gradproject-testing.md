@@ -28,12 +28,12 @@ The purpose of the project is to give students experience in both open-ended dat
 
 There are **six** deliverables in the graduate project element of the course. 
 <ul>
-<li><b>Group Formation + Research Proposal:</b> Your group will have to submit a google form stating your research proposal. </li>
-<li><b>Checkpoint 1: EDA + Internal Peer Review:</b> You will need to submit a write-up + code for preliminary EDA on your dataset. You will also have to submit an internal peer review here. Please see below for more information. </li>
-<li><b>Checkpoint 2: Mandatory Check-In:</b> You will need to write a one-pager of your progress so far and review it with a course staff member. More information will be announced later. </li>
+<li><b>Group Formation + Research Proposal:</b> You will form a project group and will submit a Google form stating your research proposal. </li>
+<li><b>Checkpoint 1: EDA + Internal Peer Review:</b> You will need to submit a write-up + code for Exploratory Data Analysis on your dataset. You will also have to submit an internal peer review Please see below for more information. </li>
+<li><b>Checkpoint 2: Mandatory Check-In:</b> You will need to write a one-pager of your progress (with a focus on modeling approaches your team explored) and review it with a course staff member. More information will be announced later. </li>
 <li><b>Checkpoint 3: Project Report First Draft + Internal Peer Review:</b> This will be your first draft; you will be required to submit a report of your findings as well as any code necessary to reproduce your results. You will also have to submit an internal peer review here. More information will be announced later.</li>
 <li><b>External Peer-Review:</b> You will need to provide other project teams with feedback on their projects. More information will be announced later.</li>
-<li><b>Final Project Report:</b> This will be the finalized version of your project. You will need to submit a report (as well as all necessary code), ensuring you incorporate all relevant feedback from the first draft and external peer-review. You will also be required to make a brief 5-minute YouTube video discussing the project. More information will be announced later.</li>
+<li><b>Final Project Report:</b> This will be the finalized version of your project. You will need to submit a report (as well as all necessary code), ensuring you incorporate all relevant feedback from the first draft and external peer review. You will also be required to make a brief 5-minute YouTube video discussing the project. More information will be announced later.</li>
 </ul>
 
 ### Teamwork
