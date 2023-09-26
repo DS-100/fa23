@@ -246,17 +246,15 @@ This is a single PDF that summarizes your workflow and what you have learned. It
 Specifically, you should ensure you address the following in the narrative:
 
 * Clearly state the research questions and why they are interesting and important.
-* The introduction covers a brief survey of related work on the topic(s) of your analysis. Be sure to reference current approaches/research in the context of your project, as well as how your project differs from or complements existing research. Your report has to include a list of cited references that you discuss in this section.
-* The description of data section outlines the summary of the data and how the data was prepared for the modeling phase (summarizing your EDA work). If applicable, descriptions of additional datasets that you gathered to support your analysis may also be included.
-* Methodology: carefully describe the methods/models you use and why they are appropriate for answering your search questions. It must include a detailed description of how modeling is done in your project, including inference or prediction methods used, feature engineering and regularization if applicable, and cross-validation or test data as appropriate for model selection and evaluation.  
-  * _Interesting findings_* about each dataset when analyzed individually. Include visualizations and descriptions of data cleaning and data transformation necessary to perform the analysis that led to your findings.
-  * _Interesting findings_* involving your datasets. Include visualizations and descriptions of data cleaning and data transformation necessary to perform the analysis that led to your findings.
-* Summary of results: Analysis of your findings to answer your research question(s). Include visualizations and specific results. You must compare the results using different inference or prediction methods (e.g., linear regression, logistic regression, or classification and regression trees). Can you explain why some methods performed better than others?
-* Discussion: An evaluation of your approach and discuss any limitations of the methods you used. Also, describe any surprising discoveries that you made and future work.
+* Introduction: ensure you include a brief survey of related work on the topic(s) of your analysis. Be sure to reference current approaches/research in the context of your project, as well as how your project differs from or complements existing research. You must cite all the references you discuss in this section.
+* Description of data: ensure you outline the summary of the data and how the data was prepared for the modeling phase (summarizing your EDA work). If applicable, descriptions of additional datasets that you gathered to support your analysis may also be included.
+* Methodology: carefully describe the methods/models you use and why they are appropriate for answering your search questions. You must include a detailed description of how modeling is done in your project, including inference or prediction methods used, feature engineering and regularization if applicable, and cross-validation or test data as appropriate for model selection and evaluation. <!-- You may also include interesting findings involving your datasets. -->
+* Summary of results: analyze your findings in relation to your research question(s). Include/reference visualizations and specific results. Discuss any interesting findings from your analysis. You are encouraged to compare the results using different inference or prediction methods (e.g. linear regression, logistic regression, or classification and regression trees). Can you explain why some methods performed better than others?
+* Discussion: evaluate your approach and discuss any limitations of the methods you used. Also, briefly describe any surprising discoveries and whether there are any interesting extensions to your analysis.
 
-The narrative PDF should include figures sparingly to support specific claims. It can include runnable components, but it should not have large amounts of code. The length of the report should be 8 ± 2 pages when it is printed as a PDF, excluding figures and code.
+The narrative PDF should include figures sparingly to support specific claims. It can include a few runnable code components, but it should not have large amounts of code. The length of the report should be 8 ± 2 pages when it is printed as a PDF, excluding figures and code.
 
-Tip: if you need to write a large amount of $\LaTeX$, you may want to use the `%%latex` cell magic.
+Tip: if you need to write a large amount of $\LaTeX$ on markdown, you may want to use the `%%latex` cell magic. However, we also encourage you to explore [Overleaf](https://www.overleaf.com) for easily writing clean LaTeX documents.
 
 Please submit everything as a zip file to the final report submission portal on Gradescope. Please make sure the folder in the zip file has the following structure:
 
@@ -268,7 +266,7 @@ studentIDs/
     figures/[figures included in the narrative PDF]
 ```
 
-For groups with multiple members, please use student IDs joined by `_` as the name for the top-level directory. The analysis notebooks must be runnable within this directory structure. If the narrative PDF includes any figures that are created in the analysis notebooks, the figures should be saved to `figures/` by the analysis notebooks.
+Please use student IDs joined by `_` as the name for the top-level directory. The analysis notebooks must be runnable within this directory structure. If the narrative PDF includes any figures that are created in the analysis notebooks, the figures should be saved to `figures/` by the analysis notebooks.
 
 ## Rubrics
 This section includes a rubric for how different project deliverables are going to be graded. This section will be updated as the project timeline progresses.
@@ -277,6 +275,7 @@ This section includes a rubric for how different project deliverables are going 
 - One paragraph description of the data that will be used in the project (1%).
 - List of research questions and their alignment with the given datasets (1%).
 - Forming teams by the deadline (2%).
+
 <!---
 
 ### Checkpoint Rubric
