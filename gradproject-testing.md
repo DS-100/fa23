@@ -280,9 +280,9 @@ Please use student IDs joined by `_` as the name for the top-level directory. Th
 ## Rubrics
 This section includes a rubric for how different project deliverables are going to be graded. This section will be updated as we get further along the project timeline.
 
-### Group formation + Research Proposal (4%)
-- One paragraph description of the data that will be used in the project (1%).
-- List of research questions and their alignment with the given datasets (1%).
+### Group formation + Research Proposal (5%)
+- One paragraph description of the data that will be used in the project (1.5%).
+- List of research questions and their alignment with the given datasets (1.5%).
 - Forming teams by the deadline (2%).
 
 <!---
