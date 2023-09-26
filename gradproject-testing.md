@@ -29,7 +29,7 @@ The purpose of the project is to give students experience in both open-ended dat
 There are **six** deliverables in the graduate project element of the course. 
 <ul>
 <li><b>Group Formation + Research Proposal:</b> You will form a project group and will submit a google form stating your research proposal.</li>
-<li><b>Checkpoint 1: EDA + Internal Peer Review:</b> You will need to submit a write-up + code for Exploratory Data Analysis on your dataset. You will also have to submit an internal peer review. Please see the below section on this checkpoint for more information. </li>
+<li><b>Checkpoint 1: EDA + Internal Peer Review:</b> You will need to submit a write-up + code for Exploratory Data Analysis on your dataset. You will also have to submit an internal peer review. Please see the [below](#checkpoint-1-eda--internal-peer-review) section on this checkpoint for more information. </li>
 <li><b>Checkpoint 2: Mandatory Check-In:</b> You will need to write a one-pager of your progress (with a focus on modeling approaches your team explored) and review it with a course staff member. More information will be announced later. </li>
 <li><b>Checkpoint 3: Project Report First Draft + Internal Peer Review:</b> This will be your first draft; you will be required to submit a report of your EDA and modeling along with any code necessary to reproduce your results. You will also have to submit an internal peer review. More information will be announced later.</li>
 <li><b>External Peer-Review:</b> You will need to provide other project teams with feedback on their projects. More information will be announced later.</li>
