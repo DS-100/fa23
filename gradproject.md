@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Graduate Project - Testing
-nav_order: 6
-nav_exclude: true
+nav_order: 3
+nav_exclude: false
 description: Specifications for the grad project for Data 200.
 markdown: kramdown
 ---
