@@ -1,16 +1,13 @@
 ---
 layout: page
-title: Lecture 10 – Constant model, loss, and transformations
+title: Lecture 10 – Intro to Modeling, SLR
 nav_exclude: true
 ---
 
-# Lecture 10 – Constant model, loss, and transformations
+# Lecture 10 – Intro to Modeling, SLR
 
-Presented by Dominic Liu
+Presented by Narges Norouzi
 
 Content by many dedicated Data 100 instructors at UC Berkeley. See our [Acknowledgments](../../acks) page.
 
-- [slides](https://docs.google.com/presentation/d/1RXpQSqh8SbeMdyCUJvVOKBjmp3SCw5YbogidNcdtUBk/edit?usp=sharing){:target="_blank"}
-- [code](http://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Fsu23-materials&branch=main&urlpath=lab%2Ftree%2Fsu23-materials%2Flec%2Flec10%2Flec10.ipynb){:target="_blank"}
-- [code HTML](../../resources/assets/lectures/lec10/lec10.html)
-- [recording](https://bcourses.berkeley.edu/courses/1525605/pages/lecture-10-constant-model-loss-and-transformations)
+- [slides](https://docs.google.com/presentation/d/1tJrUOo46oPH5oFtvEH8lAAPas4K7hLAvFdNFp4-e49M/edit?usp=sharing){:target="_blank"}
