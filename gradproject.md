@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Graduate Project - Testing
+title: Graduate Project
 nav_order: 3
 nav_exclude: false
 description: Specifications for the grad project for Data 200.
 markdown: kramdown
 ---
-# Graduate Project - Testing
+# Graduate Project
 {:.no_toc}
 
 <!--### <span style="color:red"> ⚠️ Warning: This webpage is under construction; nothing here is finalized until it is on ds100.org/fa23/gradproject </span>
