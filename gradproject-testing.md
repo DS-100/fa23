@@ -28,8 +28,8 @@ The purpose of the project is to give students experience in both open-ended dat
 
 There are **six** deliverables in the graduate project element of the course. 
 <ul>
-<li><b>Group Formation + Research Proposal:</b> You will form a project group and will submit a Google form stating your research proposal.</li>
-<li><b>Checkpoint 1: EDA + Internal Peer Review:</b> You will need to submit a write-up + code for Exploratory Data Analysis on your dataset. You will also have to submit an internal peer review Please see below for more information. </li>
+<li><b>Group Formation + Research Proposal:</b> You will form a project group and will submit a google form stating your research proposal.</li>
+<li><b>Checkpoint 1: EDA + Internal Peer Review:</b> You will need to submit a write-up + code for Exploratory Data Analysis on your dataset. You will also have to submit an internal peer review. Please see the below section on this checkpoint for more information. </li>
 <li><b>Checkpoint 2: Mandatory Check-In:</b> You will need to write a one-pager of your progress (with a focus on modeling approaches your team explored) and review it with a course staff member. More information will be announced later. </li>
 <li><b>Checkpoint 3: Project Report First Draft + Internal Peer Review:</b> This will be your first draft; you will be required to submit a report of your EDA and modeling along with any code necessary to reproduce your results. You will also have to submit an internal peer review. More information will be announced later.</li>
 <li><b>External Peer-Review:</b> You will need to provide other project teams with feedback on their projects. More information will be announced later.</li>
@@ -51,10 +51,10 @@ There are **six** deliverables in the graduate project element of the course.
 | 12/01 |	External Peer-Review | | 7.5% |
 | 12/08 | Final Project Report | | 50% |
 
-### <span style="color:red"> Late Policy </span>
+### Late Policy
 
-* You may submit the **first draft**, **final report**, and the **presentation video** late with a 10% penalty to that portion of your project for each day it is late. You may submit up to two days late. Submission times are rounded up to the next day. That is, 2 minutes late = 1 day late.
-* Internal and external peer reviews as well as other project deliverables must be completed on time (there is no grace period for these).
+* You may submit the **first draft**, **final report**, and the **presentation video** late with a 10% penalty (applying only to that portion of your project grade) for each day it is late. You may submit up to two days late. Submission times are rounded up to the next day. That is, 2 minutes late = 1 day late.
+* Internal and external peer reviews as well as other project deliverables must be completed on time (there is no grace period).
 
 
 ## Datasets
@@ -64,7 +64,7 @@ This section contains the datasets we will provide to you to explore your resear
 - You must incorporate **at least one** of the provided datasets.
 - You are welcome to **bring in additional datasets** to complement the datasets provided here, but you must cite the sources and clearly describe the content of any additional data you use in the final report.
 
-In general, when drawing causality conclusions from any data sources, please be sure to consult the [extra resources on causal inference](#extra-resources-causal-inference).
+In general, if you're drawing any conclusions regarding causality, please be sure to consult the [extra resources on causal inference](#extra-resources-causal-inference).
 
 ### Accessing Datasets
 
@@ -74,14 +74,12 @@ All the datasets provided by us can be found inside the following link on Google
 <a href="https://drive.google.com/drive/folders/1GiQJ-wu_ZKr_9FZGqyY-aBHahkDObdAr?usp=drive_link">Graduate Project Datasets Google Drive</a>
 </p>
 
-If you wish to work on Datahub, use the following instructions on how to move the data from Google Drive onto Datahub (keep in mind that your Datahub kernel can only manage 2GB of memory at maximum). Given the limitations of DataHub with storing your dataset, we recommend using Google Drive + Google Collaboratory.
-
-If you wish to work on the project locally, you can also download the files containing the datasets for each topic.
+If you wish to work on Datahub, we've provided some instructions on how to move the data from Google Drive onto Datahub. However, your Datahub kernel can often only manage 2GB of memory at maximum. Given this limitation (and the size of most datasets), we recommend instead using Google Drive + Google Colaboratory. If you instead wish to work on the project locally, you can also download the files containing the datasets for each topic.
 
 #### **How to Pull Data from Google Drive directly onto Datahub**
 {:.no_toc}
 
-1. _Get the Google Drive ID of the file_. You can do this by first getting the URL of the file. You do this by right-clicking on the file in Google Drive and pressing 'Get Link'. Once you have the URL, you can find the ID by looking for the set of characters after the /d/ in the URL. For example, in the following URL: `https://drive.google.com/file/d/16-4O_lJGioPC5G9il4vR_XrCgJ3J9_zK/view?usp=sharing`, the Google Drive ID would be `16-4O_lJGioPC5G9il4vR_XrCgJ3J9_zK`.
+1. _Get the Google Drive ID of the file_. To do this, first get the URL of the file. You can do this by right-clicking on the file in Google Drive and pressing 'Share -> Copy Link'. Once you have the URL, you can find the ID by looking for the set of characters after the /d/ in the URL. For example, in the following URL: `https://drive.google.com/file/d/16-4O_lJGioPC5G9il4vR_XrCgJ3J9_zK/view?usp=sharing`, the Google Drive ID would be `16-4O_lJGioPC5G9il4vR_XrCgJ3J9_zK`.
 2. _Download the data_. Once you have the Google Drive ID of the file, you can use the `utils.py` file inside the `grad_proj` directory on your Datahub. This file has a number of useful functions for downloading data. You'll want to use `fetch_and_cache_gdrive`. You will call the function in a notebook. The function takes in two arguments: **(1) Google Drive ID** that you got in the previous step, and **(2) name of the file**. Calling the function will generate a `data` folder and place the file into that folder, using the name you came up with as the second argument of the function.
 
 Hopefully, the above steps help you to access the data on Google Drive. There are other ways to move the data onto Datahub. Consider looking into [`gdown`](https://github.com/wkentaro/gdown) or just downloading the data from Google Drive and uploading it to Datahub manually.
@@ -189,7 +187,8 @@ You can access all the data within the `Topic 3/Dataset A` through the `Topic 3/
 ## <span style="color:red">Group Formation + Research Proposal</span>
 
 
-## <span style="color:red"> Checkpoint 1: EDA + Internal Peer Review</span>
+## <span style="color:red"> Checkpoint 1: EDA + Internal Peer Review</span> 
+{:#eda}
 
 The checkpoint is intended to keep you on track to meet your project goals. You will need to submit exploratory data analysis results on Gradescope. This will include submitting both a report of your results so far as well as all code necessary to replicate your results. <!-- See the rubric [here](#checkpoint-rubric). -->
 
