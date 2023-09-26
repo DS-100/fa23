@@ -184,15 +184,15 @@ You can access all the data within the `Topic 3/Dataset A` through the `Topic 3/
 {:.no_toc}
 - `frappe.csv` and `meta.csv` contain data on mobile app usage for users in various contexts. For general information about the dataset, please refer to `frappe_README.txt`.
 
-## <span style="color:red">Group Formation + Research Proposal</span>
+## Group Formation + Research Proposal
 
+The first deliverable of your group project is just to form your group, choose a dataset and submit your research proposal to [this google form](https://forms.gle/KnJPVvbcr6j6wt7GA) by 11:59 pm on 10/06. Along with your research proposal, you are required to briefly explore your chosen dataset and describe it in one paragraph. You may form groups of 2 or 3 people with any Data 200A/200A/200S student. If you are having trouble finding a group, we can assign you to a group if you fill out this [form](https://forms.gle/nPHpmAWgGbjkPYtEA) by 11:59pm on 9/29.
 
-## <span style="color:red"> Checkpoint 1: EDA + Internal Peer Review</span> 
-{:#eda}
+## Checkpoint 1: EDA + Internal Peer Review
 
-The checkpoint is intended to keep you on track to meet your project goals. You will need to submit exploratory data analysis results on Gradescope. This will include submitting both a report of your results so far as well as all code necessary to replicate your results. <!-- See the rubric [here](#checkpoint-rubric). -->
+The checkpoint is intended to keep you on track to meet your project goals. You will need to submit exploratory data analysis results on Gradescope. This will include submitting both a report of your results so far as well as all code necessary to replicate your results. Your submission should include:
 
-- **Project Introduction and Goals** Please briefly introduce your project. Think about introducing your project to someone who has a background in data science but does not know the dataset and your research question. This part should not exceed 500 words. Here are some components to help you started:
+- **Project Introduction and Goals:** Please briefly introduce your project. Think about introducing your project to someone who has a background in data science but does not know the dataset and your research question. This part should not exceed 500 words. Here are some components to help you get started:
   - What is the dataset about? How was the data collected? What are the available features and information? What is the size of the dataset?
   - What questions do you plan to ask about the dataset? Why do we care about such a problem?
   - What is your workflow for the project? Your first step, second step…
