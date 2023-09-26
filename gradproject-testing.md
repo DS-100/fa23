@@ -269,7 +269,7 @@ studentIDs/
 Please use student IDs joined by `_` as the name for the top-level directory. The analysis notebooks must be runnable within this directory structure. If the narrative PDF includes any figures that are created in the analysis notebooks, the figures should be saved to `figures/` by the analysis notebooks.
 
 ## Rubrics
-This section includes a rubric for how different project deliverables are going to be graded. This section will be updated as the project timeline progresses.
+This section includes a rubric for how different project deliverables are going to be graded. This section will be updated as we get further along the project timeline.
 
 ### Group formation + Research Proposal (4%)
 - One paragraph description of the data that will be used in the project (1%).
