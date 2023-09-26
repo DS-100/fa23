@@ -268,7 +268,7 @@ Tip: if you need to write a large amount of $\LaTeX$ on markdown, you may want t
 Please submit everything as a zip file to the final report submission portal on Gradescope. Please make sure the folder in the zip file has the following structure:
 
 ```
-[your studentIDs]/
+[your studentIDs joined by _]/
     data/[all datasets used]
     analysis/[analysis notebooks]
     narrative/[narrative PDF]
