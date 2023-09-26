@@ -172,17 +172,26 @@ A recommender system is an information filtering system that focuses on predicti
 
 You can access all the data within the `Topic 3/Dataset A` through the `Topic 3/Dataset C`  directory on Google Drive.
 
-#### Dataset A: Fitness Recommendation
+#### Dataset A: Fitness Recommendations
 {:.no_toc}
-- `fitness_recommendation.txt` contains a link to access the fitness data from sequential sensors for various workouts. ([documentation](https://sites.google.com/eng.ucsd.edu/fitrec-project/home))
 
-#### Dataset B: Amazon Recommendation
+These datasets consist of user sports records collected from Endomondo. They include a rich variety of sequential sensor data, such as metrics like heart rate, speed, GPS coordinates. Additionally, the datasets contain information about the type of sport, user gender, and weather conditions, which encompass temperature and humidity.
+
+- Relevant data can be found in `Topic 3/Dataset A` on the Google Drive. You may also visit the [main page](https://sites.google.com/eng.ucsd.edu/fitrec-project/home) for documentation and links to download the dataset.
+
+#### Dataset B: Amazon Recommendations
 {:.no_toc}
-- `amazon_reviews.txt` contains a link to access the data on a subset of Amazon product reviews. The report includes metadata such as ratings and text on the reviews and general information about the product. ([documentation](https://nijianmo.github.io/amazon/index.html))
+
+These datasets comprise Amazon reviews, which encompass ratings, textual content, and helpfulness votes for a wide variety of Amazon categories, such as fashion, electronics, and pet supplies. They also contain product metadata, including descriptions, category information, price, brand, and image features.
+
+- Instructions on how to access the data is located in `Topic 3/Dataset B` on the Google Drive. You may also directly visit the [main page](https://nijianmo.github.io/amazon/index.html), which includes general information about the dataset, such as metadata and categories, as well as the dataset request process. 
 
 #### Dataset C: Application Usage Recommendation
 {:.no_toc}
-- `frappe.csv` and `meta.csv` contain data on mobile app usage for users in various contexts. For general information about the dataset, please refer to `frappe_README.txt`.
+
+The frappe dataset contains a context-aware app usage log consisting of 96,203 entries by 957 users for 4,082 apps used in various contexts. These contexts include factors such as time of day, country, number of downloads, and cost.
+
+- `frappe.csv` and `meta.csv` contain data on mobile app usage for users in various contexts. For general information about the dataset, please refer to `frappe_README.txt` and `stats.ipynb`.
 
 ## Group Formation + Research Proposal
 
