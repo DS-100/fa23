@@ -196,12 +196,12 @@ The checkpoint is intended to keep you on track to meet your project goals. You 
   - What is the dataset about? How was the data collected? What are the available features and information? What is the size of the dataset?
   - What questions do you plan to ask about the dataset? Why do we care about such a problem?
   - What is your workflow for the project? Your first step, second step…
-  - What are the models you plan to use? Why could the model be a good fit for your project?
+  - What are the models you plan to use? Why would the model be a good fit for your project? What are potential pitfalls you could run into?
   - What is your goal for the project? What are the expected deliverables?
 
-- **EDA** Show results from your EDA work. For both parts, you should include:
+- **EDA:** Show the results from your EDA work. For both parts, you should include:
   - **Data Sampling and Collection**
-    - How were the data collected?
+    - How was the data collected?
     - Was there any potential bias introduced in the sampling process?
   - **Data Cleaning**
     - What type of data are you currently exploring?
@@ -210,60 +210,43 @@ The checkpoint is intended to keep you on track to meet your project goals. You 
   - **Exploratory Data Analysis**
     - Is there any correlation between the variables you are interested in exploring?
     - How would you cleanly and accurately visualize the relationship among variables?
-    - What are your EDA questions? (for example, are there any relationships between A and B? What is the distribution of A?).
-    - Do you need to perform data transformation? 
-  - **Figures of good quality (tables, plots, etc.)**
+    - What are your EDA questions? (For example, are there any relationships between A and B? What is the distribution of A?).
+    - Do you need to perform data transformations? 
+  - **Figures(tables, plots, etc.)**
     - Descriptions of your figures. Takeaways from the figures.
+    - These figures must be of good quality (i.e. they must include axes, titles, labels, etc) and they must be relevant to your proposed analysis.
 
 - **Other Preliminary Results (optional)**: Please optionally post any other preliminary results here for our information. 
 
-## <span style="color:red"> Final Project Report </span>
-The project submission should include the following two components.
+## Final Project Report
+The project submission should include the following two components, as well as the YouTube video recording (more information to be announced later).
 
 ### [Component 1] Analysis Notebooks
 
-The Jupyter Notebook(s) containing all the analyses that you performed on the datasets to support your claims in the narrative PDF. Make sure that all references to datasets are done as `data/[path to data files]`. 
+This component includes all the Jupyter Notebook(s) containing all the analyses that you performed on the datasets to support your claims in your write-up. Make sure that all references to datasets are done as `data/[path to data files]`. By running these notebooks, we should be able to replicate all the analysis/figures done in your write-up.
 
-Your analysis notebook(s) should address all of the following components in the data science lifecycle. Please note that a thorough explanation of your thought process and approach is **as important as** your work. We have provided a few preliminary questions/tips you can think about for each part:
- - **Data Sampling and Collection**
-    - How were the data collected?
-    - Was there any potential bias introduced in the sampling process?
- - **Data Cleaning**
-    - What type of data are you currently exploring?
-    - What is the granularity of the data?
-    - What does the distribution of the data look like? Are there any outliers? Are there any missing or invalid entries?
-- **Exploratory Data Analysis**
-    - Is there any correlation between the variables you are interested in exploring?
-    - How would you cleanly and accurately visualize the relationship among variables?
-    - What are your EDA questions? (for example, are there any relationships between A and B? What is the distribution of A?).
-    - Do you need to perform data transformation? 
-- **Figures of good quality (tables, plots, etc.)**
-    - Descriptions of your figures. Takeaways from the figures.
+Your analysis notebook(s) should address all of the following components in the data science lifecycle. Please note that a thorough explanation of your thought process and approach is **as important as** your work. Unreadable/uncommented code will lose points. Along with the code for the EDA portion (which also has to be included), we have provided a few additional preliminary questions/tips you can consider for the modelling portion of the project:
 
-- **Data Modeling**
-  - Here are a few components your notebook must address:
-    - What are the research questions that you will be answering through the modeling process?
-    - What type of machine learning problem (modeling) are you investigating?
-    - What model do you plan on using and why?
-    - How do you use your data for training and testing?
-    - Does your model require hyperparameter tuning? If so, how do you approach it?
-    - How do you engineer the features for your model? What are the rationales behind selecting these features?
-    - How do you perform cross-validation on your model?
-    - What loss metrics are you using to evaluate your model?
-    - From a bias-variance tradeoff standpoint, how do you assess the performance of your model? How do you check if it is overfitting?
-    - How would you improve your model based on the outcome?
+  - What are the research questions that you are answering through your analysis? What type of machine learning problem are you investigating?
+  - Which model(s) do you use and why?
+  - How do you use your data for training and testing?
+  - Does your model require hyperparameter tuning? If so, how do you approach it?
+  - How do you engineer the features for your model? What are the rationales behind selecting these features?
+  - How do you perform cross-validation on your model?
+  - What loss metrics are you using to evaluate your model? Why?
+  - From a bias-variance tradeoff standpoint, how do you assess the performance of your model? How do you check if it is overfitting?
+  - How would you improve your model based on the outcome? 
+  - Are there any further extensions to your model that would be worth exploring?
   
 
-### [Component 2] Project Writeup
+### [Component 2] Project Write-Up
 
-This is a single PDF that summarizes your workflow and what you have learned. It should be structured as a research paper and include a title, list of authors, abstract, introduction, description of data, methodology, summary of results, discussion, conclusion, and references. Make sure to number figures and tables and include informative captions.
+This is a single PDF that summarizes your workflow and what you have learned. It should be structured as a research paper and include a title, list of authors, abstract, introduction, description of data, methodology, summary of results, discussion, conclusion, and references. Make sure to number figures and tables, include informative captions and ensure you include the provenance of the figures in the main narrative. We encourage you to render the PDF using LaTeX, but we will not be able to provide assistance with LaTeX-related issues.
 
-If you wish, you can render the PDF using LaTeX, provided that the provenance of the figures is clearly labeled in the main narrative, and the figures can be reproduced by running the analysis notebooks.
+Specifically, you should ensure you address the following in the narrative:
 
-Specifically, you should address the following in the narrative:
-
-* Clearly stated research questions and why they are interesting and important.
-* The introduction has to cover a brief survey of related work on the topic(s) of your analysis and how your project differs from or complements existing research. Be sure to reference current work/state-of-the-art in the context of your project. Your report has to include a list of cited references that you discuss in this section.
+* Clearly state the research questions and why they are interesting and important.
+* The introduction covers a brief survey of related work on the topic(s) of your analysis. Be sure to reference current approaches/research in the context of your project, as well as how your project differs from or complements existing research. Your report has to include a list of cited references that you discuss in this section.
 * The description of data section outlines the summary of the data and how the data was prepared for the modeling phase (summarizing your EDA work). If applicable, descriptions of additional datasets that you gathered to support your analysis may also be included.
 * Methodology: carefully describe the methods/models you use and why they are appropriate for answering your search questions. It must include a detailed description of how modeling is done in your project, including inference or prediction methods used, feature engineering and regularization if applicable, and cross-validation or test data as appropriate for model selection and evaluation.  
   * _Interesting findings_* about each dataset when analyzed individually. Include visualizations and descriptions of data cleaning and data transformation necessary to perform the analysis that led to your findings.
