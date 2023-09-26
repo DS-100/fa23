@@ -31,14 +31,14 @@ There are **six** deliverables in the graduate project element of the course.
 <li><b>Group Formation + Research Proposal:</b> You will form a project group and will submit a Google form stating your research proposal. </li>
 <li><b>Checkpoint 1: EDA + Internal Peer Review:</b> You will need to submit a write-up + code for Exploratory Data Analysis on your dataset. You will also have to submit an internal peer review Please see below for more information. </li>
 <li><b>Checkpoint 2: Mandatory Check-In:</b> You will need to write a one-pager of your progress (with a focus on modeling approaches your team explored) and review it with a course staff member. More information will be announced later. </li>
-<li><b>Checkpoint 3: Project Report First Draft + Internal Peer Review:</b> This will be your first draft; you will be required to submit a report of your findings as well as any code necessary to reproduce your results. You will also have to submit an internal peer review here. More information will be announced later.</li>
+<li><b>Checkpoint 3: Project Report First Draft + Internal Peer Review:</b> This will be your first draft; you will be required to submit a report of your EDA and modeling along with any code necessary to reproduce your results. You will also have to submit an internal peer review. More information will be announced later.</li>
 <li><b>External Peer-Review:</b> You will need to provide other project teams with feedback on their projects. More information will be announced later.</li>
-<li><b>Final Project Report:</b> This will be the finalized version of your project. You will need to submit a report (as well as all necessary code), ensuring you incorporate all relevant feedback from the first draft and external peer review. You will also be required to make a brief 5-minute YouTube video discussing the project. More information will be announced later.</li>
+<li><b>Final Project Report:</b> You will submit the final project report. You will need to submit a report (as well as all necessary code), ensuring you incorporate all relevant feedback from the first draft and external peer review. You will also be required to make a brief 5-minute YouTube video recording of the project. More information will be announced later.</li>
 </ul>
 
 ### Teamwork
 
-**You must work in a group with one or two other students.** In order to give everyone experience in collaborating on a data science project, individual projects are not allowed. We have an [Ed post](https://edstem.org/us/courses/42444/discussion/3373220) for teammate search. Everyone in the same group will receive the same grade. The group size will be taken into consideration while grading.
+**You must work in a group with one or two other students.** In order to give everyone experience in collaborating on a data science project, individual projects are not allowed. We have an [Ed post](https://edstem.org/us/courses/42444/discussion/3373220) for teammate search. Everyone in the same group will receive the same grade (except for exceptional circumstances).
 
 ## Timeline and Grading Breakdown
 
@@ -53,8 +53,8 @@ There are **six** deliverables in the graduate project element of the course.
 
 ### <span style="color:red"> Late Policy </span>
 
-<!-- * You may submit the **first draft**, **final report** and the **presentation video** late with a 5% penalty to that portion of your project for each day it is late. You may submit up to two days late. Submission times are rounded up to the next day. That is, 2 minutes late = 1 day late.
-* Internal and external peer reviews must be completed on-time (there is no grace period for these).
+<!-- * You may submit the **first draft**, **final report**, and the **presentation video** late with a 5% penalty to that portion of your project for each day it is late. You may submit up to two days late. Submission times are rounded up to the next day. That is, 2 minutes late = 1 day late.
+* Internal and external peer reviews must be completed on time (there is no grace period for these).
 * Everything else (proposal and checkpoint) will be graded when you have completed them. -->
 
 ## Datasets
