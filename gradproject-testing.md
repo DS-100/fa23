@@ -53,9 +53,9 @@ There are **six** deliverables in the graduate project element of the course.
 
 ### <span style="color:red"> Late Policy </span>
 
-<!-- * You may submit the **first draft**, **final report**, and the **presentation video** late with a 5% penalty to that portion of your project for each day it is late. You may submit up to two days late. Submission times are rounded up to the next day. That is, 2 minutes late = 1 day late.
-* Internal and external peer reviews must be completed on time (there is no grace period for these).
-* Everything else (proposal and checkpoint) will be graded when you have completed them. -->
+* You may submit the **first draft**, **final report**, and the **presentation video** late with a 10% penalty to that portion of your project for each day it is late. You may submit up to two days late. Submission times are rounded up to the next day. That is, 2 minutes late = 1 day late.
+* Internal and external peer reviews as well as other project deliverables must be completed on time (there is no grace period for these).
+
 
 ## Datasets
 
