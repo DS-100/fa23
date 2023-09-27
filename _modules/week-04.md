@@ -11,6 +11,7 @@ Sep 12
 
 Sep 14
 : **Lecture 7**{: .label .label-lecture} [Visualization I](lecture/lec07)
+    : [Note 7](https://ds100.org/course-notes/visualization_1/visualization_1.html)
 : **Lecture Participation 7**{: .label .label-survey } [Lecture Participation 7](https://app.sli.do/event/9jDiQPBb7sy3TR1gLfyS3n/embed/polls/7a4856ae-212f-44d8-b876-b441885ce523 ){:target="_blank"}
 
 Sep 15
