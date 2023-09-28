@@ -10,7 +10,7 @@ Sep 26
     : [Solution](https://drive.google.com/file/d/1KFq7wV9N-LYEArIAmjGfrVXaBaKA27aI/view?usp=sharing){:target="_blank"}
 
 Sep 28
-: **Lecture 11**{: .label .label-lecture} Constant model, Loss, and Transformations
+: **Lecture 11**{: .label .label-lecture} [Constant model, Loss, and Transformations](lecture/lec11)
 
 Sep 29
 : **Lab 5**{: .label .label-lab } Modeling, Summary Statistics, and Loss Functions (due Oct 3)
