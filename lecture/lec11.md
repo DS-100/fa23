@@ -4,7 +4,7 @@ title: Lecture 11 – Constant model, Loss, and Transformations
 nav_exclude: true
 ---
 
-# Lecture 11 – Ordinary Least Squares
+# Lecture 11 – Constant Model, Loss, and Transformations
 
 Presented by Narges Norouzi
 
