@@ -15,6 +15,6 @@ Sep 28
 
 Sep 29
 : **Exam Prep 4**{: .label .label-vit } [Sampling](https://drive.google.com/file/d/14SiuQmN6HFkxDp64EbjbfOeYz8K43KWR/view?usp=sharing){:target="_blank"}
-: **Lab 5**{: .label .label-lab } Modeling, Summary Statistics, and Loss Functions (due Oct 3)
+: **Lab 5**{: .label .label-lab } [Modeling, Summary Statistics, and Loss Functions](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa23-student&urlpath=lab%2Ftree%2Ffa23-student%2Flab%2Flab05%2Flab05.ipynb&branch=main){:target="_blank"} (due Oct 3)
 : **Homework 5A**{: .label .label-hw } [Sampling](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa23-student&urlpath=lab%2Ftree%2Ffa23-student%2Fhw%2Fhw05%2Fhw05.ipynb&branch=main){:target="_blank"} (due Oct 5)
 : **Homework 5B**{: .label .label-hw } [Modeling](https://drive.google.com/file/d/1utlpYt8BM4YVILnDYzSBCP42gDul6Xzg/view?usp=sharing){:target="_blank"} (due Oct 5)
