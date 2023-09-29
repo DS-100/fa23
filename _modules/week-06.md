@@ -13,5 +13,6 @@ Sep 28
 : **Lecture 11**{: .label .label-lecture} [Constant model, Loss, and Transformations](lecture/lec11)
 
 Sep 29
+: **Exam Prep 4**{: .label .label-vit } [Sampling](https://drive.google.com/file/d/14SiuQmN6HFkxDp64EbjbfOeYz8K43KWR/view?usp=sharing){:target="_blank"}
 : **Lab 5**{: .label .label-lab } Modeling, Summary Statistics, and Loss Functions (due Oct 3)
 : **Homework 5**{: .label .label-hw } Modeling (due Oct 5)
