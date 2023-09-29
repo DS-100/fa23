@@ -11,6 +11,7 @@ Sep 26
 
 Sep 28
 : **Lecture 11**{: .label .label-lecture} [Constant model, Loss, and Transformations](lecture/lec11)
+: **Lecture Participation 11**{: .label .label-survey } [Lecture Participation 11](https://app.sli.do/event/5w2oWSsnKW6wC6XnWAGsVK/embed/polls/3f066927-f89a-477b-9dad-b7779f7e6e43){:target="_blank"}
 
 Sep 29
 : **Exam Prep 4**{: .label .label-vit } [Sampling](https://drive.google.com/file/d/14SiuQmN6HFkxDp64EbjbfOeYz8K43KWR/view?usp=sharing){:target="_blank"}
