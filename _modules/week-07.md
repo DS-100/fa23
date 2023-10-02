@@ -7,7 +7,7 @@ Oct 3
 : **Discussion 6**{: .label .label-disc } Models
 
 Oct 5
-: **Lecture 13**{: .label .label-lecture} Gradient descent and Sklearn
+: **Lecture 13**{: .label .label-lecture} Gradient Descent
 
 Oct 6
 : **Lab 6**{: .label .label-lab } Ordinary Least Squares (due Oct 10)
