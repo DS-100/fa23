@@ -3,7 +3,7 @@ title: Week 7
 ---
 
 Oct 3
-: **Lecture 12**{: .label .label-lecture } Ordinary Least Squares
+: **Lecture 12**{: .label .label-lecture } [Ordinary Least Squares](lecture/lec12)
 : **Discussion 6**{: .label .label-disc } [Sampling and Modeling](https://drive.google.com/file/d/1Rq-Y3lhDr6bx4kF9ymLepwD9G-HM8DvL/view?usp=sharing){:target="_blank"}
 
 Oct 5
