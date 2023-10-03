@@ -137,7 +137,7 @@ The following subsection contains more details on how to work with the first rep
 
 The first report on daily temperature and precipitation is measured by weather stations in the [Global Historical Climatology Network](https://www.ncdc.noaa.gov/data-access/land-based-station-data/land-based-datasets/global-historical-climatology-network-ghcn) for January to December 2020.
 
-The data in `daily_global_weather_2020.csv` is derived from the source file at https://www1.ncdc.noaa.gov/pub/data/ghcn/daily/by_year/2020.csv.gz.
+The data in `daily_global_weather_2020.csv` is derived from the source file at [https://www1.ncdc.noaa.gov/pub/data/ghcn/daily/by_year/2020.csv.gz](https://www1.ncdc.noaa.gov/pub/data/ghcn/daily/by_year/2020.csv.gz).
 
 To help you get started with a dataset of manageable size, we have preprocessed the GHCN dataset to include only the average temperature and precipitation measurements from stations that have both measurements. Each row in the preprocessed dataset contains both the average temperature and precipitation measurements for a given station on a given date.
 
@@ -257,7 +257,7 @@ Specifically, you should ensure you address the following in the narrative:
 * Clearly state the research questions and why they are interesting and important.
 * Introduction: ensure you include a brief survey of related work on the topic(s) of your analysis. Be sure to reference current approaches/research in the context of your project, as well as how your project differs from or complements existing research. You must cite all the references you discuss in this section.
 * Description of data: ensure you outline the summary of the data and how the data was prepared for the modeling phase (summarizing your EDA work). If applicable, descriptions of additional datasets that you gathered to support your analysis may also be included.
-* Methodology: carefully describe the methods/models you use and why they are appropriate for answering your search questions. You must include a detailed description of how modeling is done in your project, including inference or prediction methods used, feature engineering and regularization if applicable, and cross-validation or test data as appropriate for model selection and evaluation. <!-- You may also include interesting findings involving your datasets. -->
+* Methodology: carefully describe the methods/models you use and why they are appropriate for answering your research questions. You must include a detailed description of how modeling is done in your project, including inference or prediction methods used, feature engineering and regularization if applicable, and cross-validation or test data as appropriate for model selection and evaluation. <!-- You may also include interesting findings involving your datasets. -->
 * Summary of results: analyze your findings in relation to your research question(s). Include/reference visualizations and specific results. Discuss any interesting findings from your analysis. You are encouraged to compare the results using different inference or prediction methods (e.g. linear regression, logistic regression, or classification and regression trees). Can you explain why some methods performed better than others?
 * Discussion: evaluate your approach and discuss any limitations of the methods you used. Also, briefly describe any surprising discoveries and whether there are any interesting extensions to your analysis.
 
