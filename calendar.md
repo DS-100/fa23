@@ -15,7 +15,7 @@ description: Calendars with times for all course events.
 
 ## Office Hours Calendar
 
-In-person office hours are in <span style="color:blue">**blue**</span>, while virtual office hours are in <span style="color:brown">**brown**</span>. You should come to these with questions about anything – labs, homeworks, discussions, concepts, etc.
+In-person office hours are in <span style="color:blue">**blue**</span>, while virtual office hours are in <span style="color:brown">**brown**</span>. You should come to these with questions about anything – labs, homeworks, discussions, concepts, etc. Graduate project office hours are in <span style="color:purple">**purple**</span>; we offer both in-person and virtual office hours (check the event description).
 
 <!-- Click on each event to see which GSI and/or reader is running each office hour time.   -->
 
@@ -27,7 +27,7 @@ To access virtual office hours, place your ticket on the [queue](http://oh.ds100
 
 Instructor office hours with Prof. Norouzi and Prof. Pérez appear in <span style="color:red">**red**</span>. You should come to these with questions about concepts.
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&showTitle=0&mode=WEEK&src=Y190OGE0MzY1cGhmY20wMGUyOW1oMXVha3Fuc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=Y19wZjBhcmZlYnBndGtiNTJlb25jbzNxMmVwMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=Y19hZWNnMGE0djVlYmdjbDh0amo3cTcyNm9wNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=Y19pZmlxOTA3MGI5OGprMDJoYnI4cDM3djNlc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%237CB342&color=%23795548&color=%233F51B5&color=%23D50000" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&showTitle=0&mode=WEEK&src=Y190OGE0MzY1cGhmY20wMGUyOW1oMXVha3Fuc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=Y19wZjBhcmZlYnBndGtiNTJlb25jbzNxMmVwMEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=Y19hZWNnMGE0djVlYmdjbDh0amo3cTcyNm9wNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=Y19pZmlxOTA3MGI5OGprMDJoYnI4cDM3djNlc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=c_469240f03417bcbdddb731b455bbff98dba55de11c5afb03fff0657e39522b54%40group.calendar.google.com&color=%237CB342&color=%23795548&color=%233F51B5&color=%23D50000&color=%235229A3" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 <br>
 
