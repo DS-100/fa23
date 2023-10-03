@@ -4,7 +4,7 @@ title: Week 7
 
 Oct 3
 : **Lecture 12**{: .label .label-lecture } Ordinary Least Squares
-: **Discussion 6**{: .label .label-disc } Models
+: **Discussion 6**{: .label .label-disc } [Sampling and Modeling](https://drive.google.com/file/d/1Rq-Y3lhDr6bx4kF9ymLepwD9G-HM8DvL/view?usp=sharing){:target="_blank"}
 
 Oct 5
 : **Lecture 13**{: .label .label-lecture} Gradient Descent
