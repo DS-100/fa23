@@ -4,6 +4,7 @@ title: Week 7
 
 Oct 3
 : **Lecture 12**{: .label .label-lecture } [Ordinary Least Squares](lecture/lec12)
+: **Lecture Participation 12**{: .label .label-survey } [Lecture Participation 12](https://app.sli.do/event/jHqMy9U1RNfXzSx8UZLguw/embed/polls/65b24171-4e40-4e02-abe5-a114c65ad6b6){:target="\_blank"}
 : **Discussion 6**{: .label .label-disc } [Sampling and Modeling](https://drive.google.com/file/d/1Rq-Y3lhDr6bx4kF9ymLepwD9G-HM8DvL/view?usp=sharing){:target="_blank"}
 
 Oct 5
