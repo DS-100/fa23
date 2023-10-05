@@ -10,7 +10,7 @@ Oct 3
     : [Solution](https://drive.google.com/file/d/1s4XKM3SGgbwNw1KcqtfX1voopqudsW4a/view?usp=sharing){:target="_blank"}
 
 Oct 5
-: **Lecture 13**{: .label .label-lecture} Gradient Descent
+: **Lecture 13**{: .label .label-lecture} [Gradient Descent](lecture/lec13)
 
 Oct 6
 : **Lab 6**{: .label .label-lab } Ordinary Least Squares (due Oct 10)
