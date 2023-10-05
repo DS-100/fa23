@@ -160,3 +160,7 @@ a {
 .btn-gradescope {
   @include btn-color($white, #228B22);
 }
+
+.btn-youtube {
+  @include btn-color($white, #FF0000);
+}
