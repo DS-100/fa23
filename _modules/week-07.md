@@ -14,5 +14,6 @@ Oct 5
 : **Lecture Participation 13**{: .label .label-survey } [Lecture Participation 13](https://app.sli.do/event/covBqdWiqNG7ZGPkLQYHfa/embed/polls/dfc59884-2d6d-4fb5-b9bd-efc3f25d6add){:target="_blank"}
 
 Oct 6
+: **Exam Prep 5**{: .label .label-vit } [Modeling](https://drive.google.com/file/d/1vombvzd1KnDEdUjyiYXQormCnxHflgpb/view?usp=sharing){:target="_blank"}
 : **Lab 6**{: .label .label-lab } Ordinary Least Squares (due Oct 10)
 : **Homework 6**{: .label .label-hw } Regression (due Oct 12)
