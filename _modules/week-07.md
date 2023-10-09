@@ -11,6 +11,7 @@ Oct 3
 
 Oct 5
 : **Lecture 13**{: .label .label-lecture} [Gradient Descent](lecture/lec13)
+    : [Note 13](https://ds100.org/course-notes/gradient_descent/gradient_descent.html)
 : **Lecture Participation 13**{: .label .label-survey } [Lecture Participation 13](https://app.sli.do/event/covBqdWiqNG7ZGPkLQYHfa/embed/polls/dfc59884-2d6d-4fb5-b9bd-efc3f25d6add){:target="_blank"}
 
 Oct 6
