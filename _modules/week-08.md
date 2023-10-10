@@ -3,7 +3,7 @@ title: Week 8
 ---
 
 Oct 10
-: **Lecture 14**{: .label .label-lecture } Sklearn and Feature Engineering
+: **Lecture 14**{: .label .label-lecture } [Sklearn and Feature Engineering](lecture/lec14)
 : **Discussion 7**{: .label .label-disc } [OLS and Gradient Descent](https://drive.google.com/file/d/1AyJ9kuK7D9xSKAYyLrJa6pP5TnDWqywF/view?usp=sharing){:target="_blank"}
 
 Oct 12
