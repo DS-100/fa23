@@ -5,7 +5,7 @@ title: Week 7
 Oct 3
 : **Lecture 12**{: .label .label-lecture } [Ordinary Least Squares](lecture/lec12)
     : [Note 12](https://ds100.org/course-notes/ols/ols.html)
-: **Lecture Participation 12**{: .label .label-survey } [Lecture Participation 12](https://app.sli.do/event/jHqMy9U1RNfXzSx8UZLguw/embed/polls/65b24171-4e40-4e02-abe5-a114c65ad6b6){:target="\_blank"}
+: **Lecture Participation 12**{: .label .label-survey } [Lecture Participation 12](https://app.sli.do/event/jHqMy9U1RNfXzSx8UZLguw/embed/polls/65b24171-4e40-4e02-abe5-a114c65ad6b6){:target="_blank"}
 : **Discussion 6**{: .label .label-disc } [Sampling and Modeling](https://drive.google.com/file/d/1Rq-Y3lhDr6bx4kF9ymLepwD9G-HM8DvL/view?usp=sharing){:target="_blank"}
     : [Solution](https://drive.google.com/file/d/1s4XKM3SGgbwNw1KcqtfX1voopqudsW4a/view?usp=sharing){:target="_blank"}
 
