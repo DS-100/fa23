@@ -7,7 +7,7 @@ Oct 24
 : **Discussion 9**{: .label .label-disc } Cross-Validation and Regularization
 
 Oct 26
-: **Lecture 19**{: .label .label-lecture} TBD
+: **Lecture 19**{: .label .label-lecture} Causal Inference and Confounding
 
 Oct 27
 : **Lab 9**{: .label .label-lab } Probability (due Oct 31)
