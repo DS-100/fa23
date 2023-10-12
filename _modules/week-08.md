@@ -10,7 +10,7 @@ Oct 10
     : [Solution](https://drive.google.com/file/d/1q4kRslxbd-6SuLKTRF3iUBP1Pb-72NoQ/view?usp=sharing){:target="_blank"}
 
 Oct 12
-: **Lecture 15**{: .label .label-lecture} Case study (HCE): CCAO
+: **Lecture 15**{: .label .label-lecture} [Case study (HCE): CCAO](lecture/lec15)
 
 Oct 13
 : **Lab 7**{: .label .label-lab } Gradient descent and Sklearn (due Oct 17)
