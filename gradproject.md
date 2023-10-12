@@ -208,7 +208,7 @@ The checkpoint is intended to keep you on track to meet your project goals. You 
   - What are the models you plan to use? Why would the model be a good fit for your project? What are potential pitfalls you could run into?
   - What is your goal for the project? What are the expected deliverables?
 
-- **EDA:** Show the results from your EDA work. For both parts, you should include:
+- **EDA:** Show the results from your EDA work. You should include:
   - **Data Sampling and Collection**
     - How was the data collected?
     - Was there any potential bias introduced in the sampling process?
