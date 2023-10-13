@@ -11,6 +11,7 @@ Oct 10
 
 Oct 12
 : **Lecture 15**{: .label .label-lecture} [Case study (HCE): CCAO](lecture/lec15)
+: **Lecture Participation 15**{: .label .label-survey } [Lecture Participation 15](https://app.sli.do/event/75N8vUrziBQm1hPf9V5DEW/embed/polls/a44a58ce-dae5-4dea-a954-ce684fa999d2){:target="_blank"}
 
 Oct 13
 : **Exam Prep 6**{: .label .label-vit } [OLS and Gradient Descent](https://drive.google.com/file/d/1TCRhz0kWLcTh0g4-h5ApBNPu1hkU7H3j/view?usp=sharing){:target="_blank"}
