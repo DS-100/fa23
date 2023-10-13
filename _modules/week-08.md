@@ -15,7 +15,7 @@ Oct 12
 
 Oct 13
 : **Exam Prep 6**{: .label .label-vit } [OLS and Gradient Descent](https://drive.google.com/file/d/1TCRhz0kWLcTh0g4-h5ApBNPu1hkU7H3j/view?usp=sharing){:target="_blank"}
-: **Lab 7**{: .label .label-lab } Gradient descent and Sklearn (due Oct 17)
-: **Project A1**{: .label .label-hw } Housing I (due Oct 21)
+: **Lab 7**{: .label .label-lab } [Gradient descent and Sklearn](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa23-student&urlpath=lab%2Ftree%2Ffa23-student%2Flab%2Flab07%2Flab07.ipynb&branch=main){:target="_blank"} (due Oct 17)
+: **Project A1**{: .label .label-hw } [Housing I](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa23-student&urlpath=lab%2Ftree%2Ffa23-student%2Fproj%2FprojA1%2FprojA1.ipynb&branch=main){:target="_blank"} (due Oct 21)
 
 
