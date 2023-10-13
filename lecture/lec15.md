@@ -10,4 +10,4 @@ Presented by Ari Edmundson
 
 Content by Ari Edmundson
 
-- [slides](../../resources/assets/lectures/lec15/lec15.pdf){:target="_blank"}
+- [slides](../../resources/assets/lectures/lec15/lec15.pdf)
