@@ -13,5 +13,8 @@ Oct 12
 : **Lecture 15**{: .label .label-lecture} [Case study (HCE): CCAO](lecture/lec15)
 
 Oct 13
+: **Exam Prep 6**{: .label .label-vit } [OLS and Gradient Descent](https://drive.google.com/file/d/1TCRhz0kWLcTh0g4-h5ApBNPu1hkU7H3j/view?usp=sharing){:target="_blank"}
 : **Lab 7**{: .label .label-lab } Gradient descent and Sklearn (due Oct 17)
-: **Project A1**{: .label .label-hw } Housing I (due Oct 19)
+: **Project A1**{: .label .label-hw } Housing I (due Oct 21)
+
+
