@@ -290,7 +290,8 @@ This section includes a rubric for how different project deliverables are going 
 - Data Sampling and Collection (0.5%).
 - Data Cleaning (3%).
 - Exploratory Data Analysis (3%).
-- Figures (tables, plots, etc.) (3%).
+- Figures (tables, plots, etc.) (2.5%).
+- Internal Peer Review (0.5%).
 
 <!---
 
