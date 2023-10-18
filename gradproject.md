@@ -45,7 +45,7 @@ There are **six** deliverables in the graduate project element of the course.
 | Deadline (at 11:59pm Pacific)| Event / Deliverable | Link | Grading Weight |
 |--------------------------	|---------------------------------------------	|---------------------------------------------	|-----------|
 | 10/06 | Group Formation + Research Proposal| [Google Form](https://forms.gle/KnJPVvbcr6j6wt7GA) | 5% |
-| 10/20 | Checkpoint 1: EDA + Internal Peer Review| | 10% |
+| 10/20 | Checkpoint 1: EDA + Internal Peer Review| [Checkpoint 1](https://www.gradescope.com/courses/564792/assignments/3537706), [Internal Peer Review](https://forms.gle/TMbH2c7Ukpn2marM9)| 10% |
 | Week of 11/6 | Checkpoint 2: Mandatory Check-In  | | 7.5% |
 | 11/24 | Checkpoint 3: Project Report First Draft	+ Internal Peer Review| | 20% |
 | 12/01 |	External Peer-Review | | 7.5% |
@@ -284,6 +284,13 @@ This section includes a rubric for how different project deliverables are going 
 - One paragraph description of the data that will be used in the project (1.5%).
 - List of research questions and their alignment with the given datasets (1.5%).
 - Forming teams by the deadline (2%).
+
+### Checkpoint 1: EDA + Internal Peer Review (10%)
+- Project Introduction and Goals (0.5%).
+- Data Sampling and Collection (0.5%).
+- Data Cleaning (3%).
+- Exploratory Data Analysis (3%).
+- Figures (tables, plots, etc.) (3%).
 
 <!---
 
