@@ -13,6 +13,7 @@ Oct 18
 
 Oct 19
 : **Lecture 17**{: .label .label-lecture} [Random Variables](lecture/lec17)
+: **Lecture Participation 17**{: .label .label-survey } [Lecture Participation 17](https://app.sli.do/event/89KEvs8rrZv9aHgLG1BW5p/embed/polls/14a66369-b439-4d3e-af18-161a4c5861e1){:target="_blank"}
 
 Oct 20
 : **Lab 8**{: .label .label-lab } [Model Selection](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa23-student&urlpath=lab%2Ftree%2Ffa23-student%2Flab%2Flab08%2Flab08.ipynb&branch=main){:target="_blank"} (due Oct 24)
