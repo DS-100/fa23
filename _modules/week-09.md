@@ -13,6 +13,7 @@ Oct 18
 
 Oct 19
 : **Lecture 17**{: .label .label-lecture} [Random Variables](lecture/lec17)
+: **Lecture Participation 17**{: .label .label-survey } [Lecture Participation 17](https://app.sli.do/event/89KEvs8rrZv9aHgLG1BW5p/embed/polls/14a66369-b439-4d3e-af18-161a4c5861e1){:target="_blank"}
 
 Oct 20
 : **Lab 8**{: .label .label-lab } Model Selection (due Oct 24)
