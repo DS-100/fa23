@@ -4,7 +4,7 @@ title: Lecture 16 – ross-Validation and Regularization
 nav_exclude: true
 ---
 
-# Lecture 16 – ross-Validation and Regularization
+# Lecture 16 – Cross-Validation and Regularization
 
 Presented by Narges Norouzi
 
