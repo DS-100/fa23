@@ -4,6 +4,7 @@ title: Week 10
 
 Oct 24
 : **Lecture 18**{: .label .label-lecture } [Estimators, Bias and Variance](lecture/lec18)
+: **Lecture Participation 18**{: .label .label-survey } [Lecture Participation 18](https://app.sli.do/event/4yybGp9f1EDGrkUFbC7DcB/embed/polls/f8db6c4d-4dce-449c-a5a4-75a5c65ed27f){:target="_blank"}
 : **Discussion 9**{: .label .label-disc } [Cross-Validation and Regularization](https://drive.google.com/file/d/1mCLoMdpEAcvgtfaiE8h7V2QbUrFlMl3K/view?usp=sharing){:target="_blank"}
 
 Oct 26
