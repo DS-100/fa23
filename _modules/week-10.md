@@ -9,7 +9,7 @@ Oct 24
     : [Solution](https://drive.google.com/file/d/1XwsdNX-rdHfCswz4NzUIaMnypdj3y6E6/view?usp=sharing){:target="_blank"}
 
 Oct 26
-: **Lecture 19**{: .label .label-lecture} Causal Inference and Confounding
+: **Lecture 19**{: .label .label-lecture} [Bias, Variance, and Inference in Modeling](lecture/lec19)
 
 Oct 27
 : **Lab 9**{: .label .label-lab } Probability (due Oct 31)
