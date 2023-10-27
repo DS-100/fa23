@@ -10,6 +10,7 @@ Oct 24
 
 Oct 26
 : **Lecture 19**{: .label .label-lecture} [Bias, Variance, and Inference in Modeling](lecture/lec19)
+: **Lecture Participation 19**{: .label .label-survey } [Lecture Participation 19](https://app.sli.do/event/hUhpRF3FzNohn9ggeN22fX/embed/polls/7c57410e-7e67-45b5-8084-7336b92957e1){:target="_blank"}
 
 Oct 27
 : **Lab 9**{: .label .label-lab } Probability (due Oct 31)
