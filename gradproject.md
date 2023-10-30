@@ -229,7 +229,7 @@ The checkpoint is intended to keep you on track to meet your project goals. You 
 
 ## Checkpoint 2: Mandatory Check-In
 
-The purpose of this checkpoint is to ensure you are making progress and on schedule to submit the first draft of the project in 2 weeks. You will be required to make a one-page document summarizing all of your progress so far, and you will have to bring the one-page document to a 1-on-1 meeting with a staff member. The staff member will quickly skim the document and give you guidance on the project as necessary. Please look at what you need to include in the Final Project Report when determining what to include in your one-page document; the document should be a brief summary of all your progress so far.
+The purpose of this checkpoint is to ensure you are making progress and on schedule to submit the first draft of the project in 2 weeks time. You will be required to make a one-page document summarizing all of your progress so far, and you will have to bring the one-page document to a 1-on-1 meeting with a staff member. The staff member will quickly skim the document and give you guidance on the project as necessary. Please look at what you need to include in the Final Project Report when determining what to include in your one-page document; the document should be a brief summary of all your progress so far.
 
 ## Final Project Report
 The project submission should include the following two components, as well as the YouTube video recording (more information to be announced later).
