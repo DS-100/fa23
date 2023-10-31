@@ -4,7 +4,7 @@ title: Week 11
 
 Oct 31
 : **Lecture 20**{: .label .label-lecture } SQL I
-: **Discussion 10**{: .label .label-disc }  RVs, Bias, and Variance
+: **Discussion 10**{: .label .label-disc }  [RVs, Bias, and Variance](https://drive.google.com/file/d/1cC6pL-aIaqNL-5tVqRKffF02m3WAuTs8/view?usp=drivesdk)
 
 Nov 2
 : **Lecture 21**{: .label .label-lecture} SQL II / Cloud Data
