@@ -15,7 +15,7 @@ Oct 26
 : **Lecture Participation 19**{: .label .label-survey } [Lecture Participation 19](https://app.sli.do/event/hUhpRF3FzNohn9ggeN22fX/embed/polls/7c57410e-7e67-45b5-8084-7336b92957e1){:target="_blank"}
 
 Oct 27
-: **Exam Prep 7**{: .label .label-vit } [Cross-Validation, Regularization, and Probability](https://drive.google.com/file/d/1jYpnPEP99oghIn1plRPBlB3C0BmvKvaK/view?usp=sharing){:target="_blank"}
+: **Exam Prep 7**{: .label .label-vit } [Cross-Validation, Regularization, and Random Variables](https://drive.google.com/file/d/1jYpnPEP99oghIn1plRPBlB3C0BmvKvaK/view?usp=sharing){:target="_blank"}
     : [Solution](https://drive.google.com/file/d/1Hpf_2UVr86dd_-bqONLDpglEMSr0refD/view?usp=sharing){:target="_blank"}, [recording](https://youtu.be/daI-OYWOUlQ){:target="_blank"}
 : **Lab 9**{: .label .label-lab } [Probability](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa23-student&urlpath=lab%2Ftree%2Ffa23-student%2Flab%2Flab09%2Flab09.ipynb&branch=main){:target="_blank"} (due Oct 31)
 : **Homework 7**{: .label .label-hw } [Probability](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa23-student&urlpath=lab%2Ftree%2Ffa23-student%2Fhw%2Fhw07%2Fhw07.ipynb&branch=main){:target="_blank"} (due Nov 2)
