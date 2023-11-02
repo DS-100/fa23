@@ -10,7 +10,7 @@ Oct 31
     : [Solution](https://drive.google.com/file/d/1_7vZ3HVQng-2Q1GtZ1uMLwlbPUt--n8R/view?usp=sharing){:target="_blank"}
 
 Nov 2
-: **Lecture 21**{: .label .label-lecture} SQL II / Cloud Data
+: **Lecture 21**{: .label .label-lecture} [SQL II](lecture/lec21)
 
 Nov 3
 : **Lab 10**{: .label .label-lab } SQL (due Nov 7)
