@@ -14,5 +14,6 @@ Nov 2
 : **Lecture Participation 21**{: .label .label-survey } [Lecture Participation 21](https://app.sli.do/event/1yqR8LFAfmWzgFRqkjW2My/embed/polls/f25900e5-134f-4091-9025-8294e38b2843){:target="_blank"}
 
 Nov 3
+: **Exam Prep 8**{: .label .label-vit } [Bias-Variance Tradeoff](https://drive.google.com/file/d/1CdZnkjfYL2STdLVtXjlubTlmaXkR18GY/view?usp=sharing){:target="_blank"}
 : **Lab 10**{: .label .label-lab } SQL (due Nov 7)
 : **Homework 8**{: .label .label-hw } SQL (due Nov 9)
