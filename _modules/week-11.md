@@ -15,5 +15,5 @@ Nov 2
 
 Nov 3
 : **Exam Prep 8**{: .label .label-vit } [Bias-Variance Tradeoff](https://drive.google.com/file/d/1CdZnkjfYL2STdLVtXjlubTlmaXkR18GY/view?usp=sharing){:target="_blank"}
-: **Lab 10**{: .label .label-lab } SQL (due Nov 7)
+: **Lab 10**{: .label .label-lab } [SQL](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa23-student&urlpath=lab%2Ftree%2Ffa23-student%2Flab%2Flab10%2Flab10.ipynb&branch=main) (due Nov 7)
 : **Homework 8**{: .label .label-hw } SQL (due Nov 9)
