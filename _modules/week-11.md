@@ -11,6 +11,7 @@ Oct 31
 
 Nov 2
 : **Lecture 21**{: .label .label-lecture} [SQL II](lecture/lec21)
+    : [Note 21](https://ds100.org/course-notes/sql_II/sql_II.html)
 : **Lecture Participation 21**{: .label .label-survey } [Lecture Participation 21](https://app.sli.do/event/1yqR8LFAfmWzgFRqkjW2My/embed/polls/f25900e5-134f-4091-9025-8294e38b2843){:target="_blank"}
 
 Nov 3
