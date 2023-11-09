@@ -10,7 +10,7 @@ Nov 7
     : [Solution](https://drive.google.com/file/d/1uedkYfBZz-QWlKJ6uWAZZCXGwOFzHssP/view?usp=sharing){:target="_blank"}
 
 Nov 9
-: **Lecture 23**{: .label .label-lecture} Logistic Regression II
+: **Lecture 23**{: .label .label-lecture} [Logistic Regression II](lecture/lec23)
 
 Nov 10
 : **Lab 11**{: .label .label-lab } Logistic Regression (due Nov 14)
