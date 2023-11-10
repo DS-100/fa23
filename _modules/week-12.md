@@ -13,5 +13,6 @@ Nov 9
 : **Lecture 23**{: .label .label-lecture} [Logistic Regression II](lecture/lec23)
 
 Nov 10
+: **Exam Prep 9**{: .label .label-vit } [SQL](https://drive.google.com/file/d/1LYG9eq8uIK7Iq86J6kiNSzKmMwsjUM-u/view?usp=sharing){:target="_blank"}
 : **Lab 11**{: .label .label-lab } Logistic Regression (due Nov 14)
 : **Project B1**{: .label .label-hw } Spam and Ham I (due Nov 16)
