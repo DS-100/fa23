@@ -16,4 +16,4 @@ Nov 9
 Nov 10
 : **Exam Prep 9**{: .label .label-vit } [SQL](https://drive.google.com/file/d/1LYG9eq8uIK7Iq86J6kiNSzKmMwsjUM-u/view?usp=sharing){:target="_blank"}
 : **Lab 11**{: .label .label-lab } [Logistic Regression](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa23-student&urlpath=lab%2Ftree%2Ffa23-student%2Flab%2Flab11%2Flab11.ipynb&branch=main) (due Nov 14)
-: **Project B1**{: .label .label-hw } Spam and Ham I (due Nov 16)
+: **Project B1**{: .label .label-hw } [Spam and Ham I](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa23-student&urlpath=lab%2Ftree%2Ffa23-student%2Fproj%2FprojB1%2FprojB1.ipynb&branch=main) (due Nov 16)
