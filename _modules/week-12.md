@@ -11,6 +11,7 @@ Nov 7
 
 Nov 9
 : **Lecture 23**{: .label .label-lecture} [Logistic Regression II](lecture/lec23)
+: **Lecture Participation 23**{: .label .label-survey } [Lecture Participation 23](https://app.sli.do/event/wMh6inZSufHTuez2XRGvwi/embed/polls/0b39842e-0f6c-48ec-8b2c-8849c85e0036){:target="_blank"}
 
 Nov 10
 : **Exam Prep 9**{: .label .label-vit } [SQL](https://drive.google.com/file/d/1LYG9eq8uIK7Iq86J6kiNSzKmMwsjUM-u/view?usp=sharing){:target="_blank"}
