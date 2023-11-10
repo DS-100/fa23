@@ -11,10 +11,9 @@ Nov 7
 
 Nov 9
 : **Lecture 23**{: .label .label-lecture} [Logistic Regression II](lecture/lec23)
-    : [Note 23](https://ds100.org/course-notes/logistic_regression_2/logistic_reg_2.html)
 : **Lecture Participation 23**{: .label .label-survey } [Lecture Participation 23](https://app.sli.do/event/wMh6inZSufHTuez2XRGvwi/embed/polls/0b39842e-0f6c-48ec-8b2c-8849c85e0036){:target="_blank"}
 
 Nov 10
 : **Exam Prep 9**{: .label .label-vit } [SQL](https://drive.google.com/file/d/1LYG9eq8uIK7Iq86J6kiNSzKmMwsjUM-u/view?usp=sharing){:target="_blank"}
-: **Lab 11**{: .label .label-lab } Logistic Regression (due Nov 14)
-: **Project B1**{: .label .label-hw } [Spam and Ham I](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa23-student&urlpath=lab%2Ftree%2Ffa23-student%2Fproj%2FprojB1%2FprojB1.ipynb&branch=main) (due Nov 16)
+: **Lab 11**{: .label .label-lab } [Logistic Regression](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa23-student&urlpath=lab%2Ftree%2Ffa23-student%2Flab%2Flab11%2Flab11.ipynb&branch=main) (due Nov 14)
+: **Project B1**{: .label .label-hw } Spam and Ham I (due Nov 16)
