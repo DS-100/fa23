@@ -10,4 +10,4 @@ Nov 23
 : **Lecture**{: .label .label-lecture} No Lecture (Thanksgiving)
 
 Nov 24
-: **Lab 13**{: .label .label-lab } PCA (due Nov 28)
+: **Lab 12**{: .label .label-lab } PCA (due Nov 28)
