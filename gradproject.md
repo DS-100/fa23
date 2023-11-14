@@ -47,7 +47,7 @@ There are **six** deliverables in the graduate project element of the course.
 | 10/06 | Group Formation + Research Proposal| [Google Form](https://forms.gle/KnJPVvbcr6j6wt7GA) | 5% |
 | 10/22 | Checkpoint 1: EDA + Internal Peer Review| [Checkpoint 1](https://www.gradescope.com/courses/564792/assignments/3537706), [Internal Peer Review](https://forms.gle/TMbH2c7Ukpn2marM9)| 10% |
 | Week of 11/6 | Checkpoint 2: Mandatory Check-In  | | 7.5% |
-| 11/24 | Checkpoint 3: Project Report First Draft	+ Internal Peer Review| | 20% |
+| 11/27 | Checkpoint 3: Project Report First Draft	+ Internal Peer Review| | 20% |
 | 12/01 |	External Peer-Review | | 7.5% |
 | 12/08 | Final Project Report (including the final YouTube video)| | 50% |
 
