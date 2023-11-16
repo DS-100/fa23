@@ -305,7 +305,7 @@ This section includes a rubric for how different project deliverables are going 
 
 ### Checkpoint 3: Project Report First Draft + Internal Peer Review (20%)
 
-Please refer to the section on the <a href="#final-project-report">Final Project Report</a> for more information on how your first draft will roughly be graded.
+Please refer to the section on the <a href="#final-project-report">Final Project Report</a> for more information on how your first draft will roughly be graded. Your first draft will be graded more leniently than your final submission, but we're still looking for largely the same elements.
 
 <!---
 
