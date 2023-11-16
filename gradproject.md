@@ -303,6 +303,10 @@ This section includes a rubric for how different project deliverables are going 
 - Modelling Approaches (3%).
 - Preliminary Results (1%).
 
+### Checkpoint 3: Project Report First Draft + Internal Peer Review (20%)
+
+Please refer to the section on the <a href="#final-project-report">Final Project Report</a> for more information on what we're looking for in your first draft.
+
 <!---
 
 ### Checkpoint Rubric
