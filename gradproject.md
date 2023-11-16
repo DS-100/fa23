@@ -231,6 +231,10 @@ The checkpoint is intended to keep you on track to meet your project goals. You 
 
 The purpose of this checkpoint is to ensure you are making progress and on schedule to submit the first draft of the project in 2 weeks time. You will be required to make a one-page document summarizing all of your progress so far, and you will have to bring the document to a one-on-one meeting with a staff member. Please look at the <a href="#checkpoint-2-mandatory-check-in-75">rubric</a> for the checkpoint and what you need to include in the <a href="#final-project-report">Final Project Report</a> when determining what to include in your one-page document; the document should be a brief summary of all your progress so far. The staff member will quickly skim the document and give you guidance on the project as a whole. More details about submitting the one-page document and signing up for the staff member meeting will be announced on Ed soon.
 
+## Checkpoint 3: Project Report First Draft + Internal Peer Review
+
+The first draft of your final report, please see below for more information on what you should aim to submit.
+
 ## Final Project Report
 The project submission should include the following two components, as well as the YouTube video recording (more information to be announced later).
 
