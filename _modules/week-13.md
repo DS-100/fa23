@@ -9,7 +9,7 @@ Nov 14
     : [Solution](https://drive.google.com/file/d/1Qfp7ABxsAmGqR5O7zPuEsnzNaZXjdq4r/view?usp=sharing){:target="_blank"}
 
 Nov 16
-: **Lecture 25**{: .label .label-lecture} PCA I
+: **Lecture 25**{: .label .label-lecture} [PCA I](lecture/lec25)
 
 Nov 17
 : **Project B2**{: .label .label-hw } Spam and Ham II (due Nov 30)

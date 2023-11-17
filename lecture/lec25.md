@@ -1,14 +1,18 @@
 ---
 layout: page
-title: Lecture 25 – Conclusion
+title: Lecture 25 – PCA I
 nav_exclude: true
 ---
 
-# Lecture 25 - Conclusion
+# Lecture 25 – PCA I
 
-Presented by Bella Crouch and Dominic Liu
+Presented by Fernando Pérez
 
 Content by many dedicated Data 100 instructors at UC Berkeley. See our [Acknowledgments](../../acks) page.
 
-- [slides](https://docs.google.com/presentation/d/1_HHXz7eeesc9QhKU6Rkag3Y_NfXMbKnEBQJeukq2HSo/edit?usp=sharing){:target="_blank"}
-- [recording](https://bcourses.berkeley.edu/courses/1525605/pages/lecture-25-conclusion)
+- [slides](https://docs.google.com/presentation/d/1piTpSGD5t6NwWe9fTTri0J3gEJKyOdyTCtmrlIyrmu8/edit?usp=sharing){:target="_blank"}
+- [code](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa23-student&urlpath=lab%2Ftree%2Ffa23-student%2Flecture%2Flec25%2Flec25.ipynb&branch=main){:target="_blank"}
+- [code HTML](../../resources/assets/lectures/lec25/lec25.html)
+
+
+
