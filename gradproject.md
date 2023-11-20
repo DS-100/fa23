@@ -233,7 +233,7 @@ The purpose of this checkpoint is to ensure you are making progress and on sched
 
 ## Checkpoint 3: Project Report First Draft + Internal Peer Review
 
-The first draft of your final report, please see below for more information on what you should aim to submit.
+The first draft of your final report, please see below for more information on what you should aim to submit. You do not need to submit the video component for checkpoint 3, but you are expected to submit a comprehensive written report that summarizes your analysis.
 
 ## Final Project Report
 The project submission should include the following two components, as well as the YouTube video recording (more information to be announced later).
@@ -309,7 +309,7 @@ This section includes a rubric for how different project deliverables are going 
 
 ### Checkpoint 3: Project Report First Draft + Internal Peer Review (20%)
 
-Please refer to the section on the <a href="#final-project-report">Final Project Report</a> for more information on how your first draft will roughly be graded. Your first draft will be graded more leniently than your final submission, but we're still looking for largely the same elements.
+Please refer to the section on the <a href="#final-project-report">Final Project Report</a> for more information on how your first draft will roughly be graded. Your first draft will be graded more leniently than your final submission, but we're still looking for largely the same elements. You do not need to submit the video component for checkpoint 3, but you are expected to submit a comprehensive written report that summarizes your analysis.
 
 <!---
 
