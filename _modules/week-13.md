@@ -10,6 +10,7 @@ Nov 14
 
 Nov 16
 : **Lecture 25**{: .label .label-lecture} [PCA I](lecture/lec25)
+    : [Note 25](https://ds100.org/course-notes/pca_1/pca_1.html)
 : **Lecture Participation 25**{: .label .label-survey } [Lecture Participation 25](https://app.sli.do/event/x57kjFv9ibSf8sK69X4bs8/embed/polls/6b2e7300-9e84-4562-8510-713fb88fd560){:target="_blank"}
 
 Nov 17

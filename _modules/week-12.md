@@ -11,6 +11,7 @@ Nov 7
 
 Nov 9
 : **Lecture 23**{: .label .label-lecture} [Logistic Regression II](lecture/lec23)
+    : [Note 23](https://ds100.org/course-notes/logistic_regression_2/logistic_reg_2.html)
 : **Lecture Participation 23**{: .label .label-survey } [Lecture Participation 23](https://app.sli.do/event/wMh6inZSufHTuez2XRGvwi/embed/polls/0b39842e-0f6c-48ec-8b2c-8849c85e0036){:target="_blank"}
 
 Nov 10
