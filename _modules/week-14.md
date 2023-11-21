@@ -3,7 +3,7 @@ title: Week 14
 ---
 
 Nov 21
-: **Lecture 26**{: .label .label-lecture } PCA II
+: **Lecture 26**{: .label .label-lecture } [PCA II](lecture/lec26)
 : **Discussion**{: .label .label-disc } No Discussion (Thanksgiving)
 
 Nov 23
