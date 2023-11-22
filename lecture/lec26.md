@@ -15,6 +15,7 @@ Content by many dedicated Data 100 instructors at UC Berkeley. See our [Acknowle
 - [code HTML (votes)](../../resources/assets/lectures/lec26/lec26-votes.html)
 - [code (fashion MNIST)](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa23-student&urlpath=lab%2Ftree%2Ffa23-student%2Flecture%2Flec26%2Flec26-fashion-mnist.ipynb&branch=main){:target="_blank"}
 - [code HTML (fashion MNIST)](../../resources/assets/lectures/lec26/lec26-fashion-mnist.html)
+- [recording](https://youtu.be/Kg_RtYR_oVU){:target="_blank"}
 
 
 
