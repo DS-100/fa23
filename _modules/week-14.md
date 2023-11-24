@@ -11,4 +11,4 @@ Nov 23
 : **Lecture**{: .label .label-lecture} No Lecture (Thanksgiving)
 
 Nov 24
-: **Lab 12**{: .label .label-lab } PCA (due Nov 28)
+: **Lab 12**{: .label .label-lab } [PCA](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa23-student&urlpath=lab%2Ftree%2Ffa23-student%2Flab%2Flab12%2Flab12.ipynb&branch=main){:target="_blank"} (due Nov 28)
