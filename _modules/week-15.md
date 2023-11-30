@@ -10,7 +10,7 @@ Nov 28
     : [Solution](https://drive.google.com/file/d/1zIHs9GBrbnCkD6CVxhCjdZLdMTdMThFa/view?usp=sharing){:target="_blank"}
 
 Nov 30
-: **Lecture 28**{: .label .label-lecture} Closing
+: **Lecture 28**{: .label .label-lecture} [Neural Network and Conclusion](lecture/lec28)
 
 Dec 1
 : **Lab 13**{: .label .label-lab } Clustering (due Dec 5)
