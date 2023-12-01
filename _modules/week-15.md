@@ -15,4 +15,4 @@ Nov 30
 
 Dec 1
 : **Exam Prep 11**{: .label .label-vit } [PCA, Clustering](https://drive.google.com/file/d/1BWT9nKXrRhRfVeQ0Rec0G05rOf-VP63f/view?usp=sharing){:target="_blank"}
-: **Lab 13**{: .label .label-lab } Clustering (due Dec 5)
+: **Lab 13**{: .label .label-lab } [Clustering](https://data100.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FDS-100%2Ffa23-student&urlpath=lab%2Ftree%2Ffa23-student%2Flab%2Flab13%2Flab13.ipynb&branch=main) (due Dec 5)
