@@ -11,6 +11,7 @@ Nov 28
 
 Nov 30
 : **Lecture 28**{: .label .label-lecture} [Neural Network and Conclusion](lecture/lec28)
+: **Lecture Participation 28**{: .label .label-survey } [Lecture Participation 28](https://app.sli.do/event/tyfckZBmLAs4qpDoM2wZ1K/embed/polls/14a4f81c-e8ab-421f-b41a-bf07c3c0881d ){:target="_blank"}
 
 Dec 1
 : **Exam Prep 11**{: .label .label-vit } [PCA, Clustering](https://drive.google.com/file/d/1BWT9nKXrRhRfVeQ0Rec0G05rOf-VP63f/view?usp=sharing){:target="_blank"}
