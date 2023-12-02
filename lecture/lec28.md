@@ -4,7 +4,7 @@ title: Lecture 28 – Neural Network and Conclusion
 nav_exclude: true
 ---
 
-# Lecture 27 – Neural Network and Conclusion
+# Lecture 28 – Neural Network and Conclusion
 
 Presented by Narges Norouzi
 
