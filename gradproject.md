@@ -334,8 +334,8 @@ The external peer review is also a great chance to learn from other people’s w
 
 ### Final Project Report
 - Analysis Notebooks (10%).
-- Presentation Video (10%).
 - Project Write-up (30%).
+- Presentation Video (10%).
 
 <!---
 
