@@ -285,6 +285,10 @@ Please submit everything as a zip file to the final report submission portal on 
 
 Please use student IDs joined by `_` as the name for the top-level directory. The analysis notebooks must be runnable within this directory structure. If the narrative PDF includes any figures that are created in the analysis notebooks, the figures should be saved to `figures/` by the analysis notebooks.
 
+### [Component 3] Presentation Video
+
+The presentation video should provide an overview of your project, highlighting the main points outlined in the write-up. The video should be approximately 5-7 minutes long but can extend up to 10 minutes. You should upload your video to YouTube and include the YouTube link in your final project write-up.
+
 ## Rubrics
 This section includes a rubric for how different project deliverables are going to be graded. This section will be updated as we get further along the project timeline.
 
@@ -328,6 +332,10 @@ Each group will peer review the project of another group. The review will be gra
 
 The external peer review is also a great chance to learn from other people’s work and reflect on the work of your own.
 
+### Final Project Report
+- Analysis Notebooks (10%).
+- Presentation Video (10%).
+- Project Write-up (30%).
 
 <!---
 
