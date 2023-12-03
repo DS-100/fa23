@@ -312,7 +312,7 @@ This section includes a rubric for how different project deliverables are going 
 Please refer to the section on the <a href="#final-project-report">Final Project Report</a> for more information on how your first draft will roughly be graded. Your first draft will be graded more leniently than your final submission, but we're still looking for largely the same elements. You do not need to submit the video component for checkpoint 3, but you are expected to submit a comprehensive written report that summarizes your analysis.
 
 ### External Peer Review (7.5%)
-Each group will peer review the project of another group. The review will be graded by staff out of a total of 7.5 points. Each review should include the following components:
+Each group will peer review the project of another group. The review will be graded by staff out of a total of 7.5 points. Each review should include the following components:      
 (1.5 points) A summary of the report. The summary should address at least the following:     
 - What research questions does the group propose? Why is it important?     
 - How does the dataset relate to the research question?     
