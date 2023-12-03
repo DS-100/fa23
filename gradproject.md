@@ -332,7 +332,7 @@ Each group will peer review the project of another group. The review will be gra
 
 The external peer review is also a great chance to learn from other people’s work and reflect on the work of your own.
 
-### Final Project Report
+### Final Project Report (50%)
 - Analysis Notebooks (10%).
 - Project Write-up (30%).
 - Presentation Video (10%).
