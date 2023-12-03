@@ -317,18 +317,18 @@ Please refer to the section on the <a href="#final-project-report">Final Project
 
 ### External Peer Review (7.5%)
 Each group will peer review the project of another group. The review will be graded by staff out of a total of 7.5 points. Each review should include the following components:      
-(1.5 points) A summary of the report. The summary should address at least the following:     
-- What research questions does the group propose? Why is it important?     
-- How does the dataset relate to the research question?     
-- What data modeling/inference techniques do the group primarily use to gain insights into their research question? Why are these techniques suitable for the task?     
-- What are the next steps a researcher can take if they want to investigate the question further based on the work in the project?     
-(6 points, 1 per component) An evaluation of the report based on the Data Science Lifecycle. The review should include at least one strong point and one suggestion for improvement for each of the following components in the project:
-- Research Questions
-- Introduction
-- Description of Data
-- Methodologies
-- Summary of Results
-- Discussion
+- (1.5 points) A summary of the report. The summary should address at least the following:     
+  - What research questions does the group propose? Why is it important?     
+  - How does the dataset relate to the research question?     
+  - What data modeling/inference techniques do the group primarily use to gain insights into their research question? Why are these techniques suitable for the task?     
+  - What are the next steps a researcher can take if they want to investigate the question further based on the work in the project?     
+- (6 points, 1 per component) An evaluation of the report based on the Data Science Lifecycle. The review should include at least one strong point and one suggestion for improvement for each of the following components in the project:
+  - Research Questions
+  - Introduction
+  - Description of Data
+  - Methodologies
+  - Summary of Results
+  - Discussion
 
 The external peer review is also a great chance to learn from other people’s work and reflect on the work of your own.
 
