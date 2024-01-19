@@ -4,7 +4,7 @@ title: Week 1
 
 Aug 24
 : **Lecture 1**{: .label .label-lecture } [Introduction](lecture/lec01)
-    : [Note 1](https://ds100.org/course-notes/intro_lec/introduction.html)
+    : [Note 1](https://ds100.org/fa23-course-notes/intro_lec/introduction.html)
 : **Lecture Participation 1**{: .label .label-survey } [Lecture Participation 1](https://app.sli.do/event/w7jeDVDxMNKRaS86U4g3rQ/embed/polls/00ef9633-394c-4b61-9061-4bc4a301ed06){:target="_blank"}
 
 
