@@ -4,6 +4,9 @@ title: Lecture 24 – Large Language Models
 nav_exclude: true
 ---
 
+{: .warning }
+⚠️ This content is archived as of March 2026 and is retained exclusively for reference. [Find current offerings.](https://ds100.org/)
+
 # Lecture 24 - Large Language Models
 
 Presented by Joseph Gonzalez
